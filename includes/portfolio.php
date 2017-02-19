@@ -1,10 +1,10 @@
-<div class="do-section-heading">
-    <h1>Works</h1>
-    <p class="do-section-subheading">creative &amp; expert</p>
-</div>
+
 
 <section id="dg-container" class="dg-container">
-
+    <div class="do-section-heading">
+        <h1>Works</h1>
+        <p class="do-section-subheading">creative &amp; expert</p>
+    </div>
     <!-- SECTION HEADING END -->
     <div class="dg-wrapper">
         <a href="https://www.dropmygift.com" target="_blank">
