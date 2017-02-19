@@ -1,50 +1,83 @@
-<section class="do-feature-section">
+<section class="do-sevice-section" id="do-sevice-section">
         <div class="container">
             <div class="row">
 
-                <!-- SERVICES -->
-                <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
-                    <div class="do-icon-wrapper">
-                        <i class="icon-screen-desktop"></i>
+                <!-- DESIGN -->
+                <div class="do-service-container">
+                    <div class="do-service-container-inner">
+                        <div class="do-front-part">
+                            <div class="do-front-content">
+                                <i class="icon-trophy"></i>
+                                <h3>DESIGN</h3>
+                            </div>
+                        </div>
+
+                        <div class="do-back-part">
+                            <div class="do-back-content">
+                                <h3>DESIGN</h3>
+                                <p> No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</p>
+                            </div>
+                        </div>
                     </div>
-
-                    <h3><a href="index.html#">WEB DESIGN</a></h3>
-                    <p>We provide strategic designs that compliment the customers’ brand and accomplish their goals.</p>
                 </div>
-                <!-- SERVICES END -->
 
-                <!-- SERVICES -->
-                <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s" data-wow-delay=".5s">
-                    <div class="do-icon-wrapper">
-                        <i class="icon-screen-smartphone"></i>
+                <!-- PRODUCTS -->
+                <div class="do-service-container">
+                    <div class="do-service-container-inner">
+                        <div class="do-front-part">
+                            <div class="do-front-content">
+                                <i class="icon-anchor"></i>
+                                <h3>PRODUCTS</h3>
+                            </div>
+                        </div>
+
+                        <div class="do-back-part">
+                            <div class="do-back-content">
+                                <h3>PRODUCTS</h3>
+                                <p> No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</p>
+                            </div>
+                        </div>
                     </div>
-
-                    <h3><a href="index.html#">MOBILE DEVELOPMENT</a></h3>
-                    <p>Realize the full potential of your business with high-end user-interactive mobile solutions.</p>
                 </div>
-                <!-- SERVICES END -->
 
-                <!-- SERVICES -->
-                <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s" data-wow-delay=".7s">
-                    <div class="do-icon-wrapper">
-                        <i class="icon-note"></i>
+                <!-- AWARDS -->
+                <div class="do-service-container">
+                    <div class="do-service-container-inner">
+                        <div class="do-front-part">
+                            <div class="do-front-content">
+                                <i class="icon-shield"></i>
+                                <h3>AWARDS</h3>
+                            </div>
+                        </div>
+
+                        <div class="do-back-part">
+                            <div class="do-back-content">
+                                <h3>AWARDS</h3>
+                                <p> No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</p>
+                            </div>
+                        </div>
                     </div>
-
-                    <h3><a href="index.html#">GRAPHIC DESIGNING</a></h3>
-                    <p>Our craftsmanship and attention to detail, make visual presentations unique and stunning.</p>
                 </div>
-                <!-- SERVICES END -->
 
-                <!-- SERVICES -->
-                <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s" data-wow-delay=".9s">
-                    <div class="do-icon-wrapper">
-                        <i class="icon-screen-tablet"></i>
+                <!-- PARTNERS -->
+                <div class="do-service-container">
+                    <div class="do-service-container-inner">
+                        <div class="do-front-part">
+                            <div class="do-front-content">
+                                <i class="pe-7s-paper-plane"></i>
+                                <h3>PARTNERS</h3>
+                            </div>
+                        </div>
+
+                        <div class="do-back-part">
+                            <div class="do-back-content">
+                                <h3>PARTNERS</h3>
+                                <p> No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure</p>
+                            </div>
+                        </div>
                     </div>
-
-                    <h3><a href="index.html#">WEB DEVELOPMENT</a></h3>
-                    <p>We at THREE38 inc, see each project as an opportunity to enhance the possibilities of internet.</p>
                 </div>
-                <!-- SERVICES END -->
+
             </div>
         </div>
     </section>
