@@ -27,7 +27,7 @@
                 <!-- FEATURES -->
                 <div class="do-icon-with-text-style1 col-md-3 col-sm-3 col-xs-12 appear fadeIn" data-wow-duration="1s" data-wow-delay=".7s">
                     <div class="do-icon-wrapper">
-                        <i class="icon-drawer"></i>
+                        <i class="icon-note"></i>
                     </div>
 
                     <h3><a href="index.html#">GRAPHIC DESIGNING</a></h3>

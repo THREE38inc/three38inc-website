@@ -7,7 +7,7 @@
                     <div class="do-footer-widget do-footer-about-widget col-md-3 col-sm-6 col-xs-12">
                         <div class="do-footer-logo-wrapper">
                             <a href="index.html#">
-                                <img src="images/Logo_338.png" alt="">
+                                <img src="images/Logo_338_white.png" alt="">
                             </a>
                         </div>
 

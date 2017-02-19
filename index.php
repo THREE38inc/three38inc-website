@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
     <!-- PAGE TITLE -->
-    <title>THREE38inc</title>
+    <title>THREE38 inc</title>
 
     <!-- FAVICON AND APPLE TOUCHSCREEN ICONS -->
     <link rel="shortcut icon" href="images/favicon_338_red.png">
