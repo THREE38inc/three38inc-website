@@ -197,7 +197,7 @@
     <!--================================
         PORTFOLIO SECTION 
     =================================-->
-  <?php //include('includes/portfolio.php'); ?>
+  <?php include('includes/portfolio.php'); ?>
     <!-- PORTFOLIO SECTION END -->
 
     <!--================================
