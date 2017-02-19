@@ -534,12 +534,14 @@ SIDE MENU BTN
 
 .do-side-menu-widget-wrap .do-side-menu-logo-wrap {
   top: 30px;
+  height: 100%;
+
 }
 
 .do-side-menu-widget-wrap .do-side-menu-menu-wrap {
-  height: 325px;
-  margin-top: 50px;
-  overflow-y: scroll;
+    height: 325px;
+    margin-top: 45%;
+    font-size: larger;
   transform: translate3d(0px, 100%, 0px);
   transition: transform 0s cubic-bezier(0.7, 0, 0.3, 1) 0.4s;
 }

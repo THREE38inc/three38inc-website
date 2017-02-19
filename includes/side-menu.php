@@ -15,16 +15,20 @@ SIDE MENU
             <!-- LOGO -->
             <div class="do-side-menu-logo-wrap">
                 <a href="https://dropmygift.com/" target="_blank">
-                    <img src="images/dmg_logo.png" alt="dropmygift">
+                    <img src="images/dmg_logo_white.png" alt="dropmygift">
                 </a>
             </div>
             <!-- LOGO -->
 
             <!-- MENU -->
             <div class="do-side-menu-menu-wrap dmg-desc">
-               Dropmygift.com is a dedicated online gift store that makes gifting a pleasure. We, at DropmyGift.com strive on the idea of delivering emotions across the world. 
-                We offer a wide range of gifts from fresh flowers, toys, jewelries, chocolates to cakes and pastries, photo frames …and more for the special moments of your life and your loved ones.
+               <strong>Dropmygift</strong> is a dedicated online gift store which is powered by <strong>THREE38inc</strong> , that makes gifting a pleasure. 
+                <br/>
+                We, at <strong>Dropmygift</strong> strive on the idea of delivering emotions across the world.
+                <br/>
                 Explore the wide array of gifts to find the one that suits your needs the best.
+                <br/>
+                <a href="https://dropmygift.com/shop/" class="do-btn-round-outline" style="margin-top:15px;">SHOP NOW</a>
             </div>
             <!-- MENU END -->
 
@@ -32,30 +36,16 @@ SIDE MENU
             <div class="do-side-menu-social-icon">
                 <ul>
                     <li>
-                        <a href="index.html#">
+                        <a href="https://www.facebook.com/dropmygift/" target="_blank">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="index.html#">
-                            <i class="fa fa-twitter"></i>
+                        <a href="https://plus.google.com/+Dropmygift" target="_blank">
+                            <i class="fa fa-google-plus"></i>
                         </a>
                     </li>
-                    <li>
-                        <a href="index.html#">
-                            <i class="fa fa-behance"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index.html#">
-                            <i class="fa fa-dribbble"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index.html#">
-                            <i class="ti-vimeo-alt"></i>
-                        </a>
-                    </li>
+                    
                 </ul>
             </div>
             <!-- SOCIAL ICONS END -->
