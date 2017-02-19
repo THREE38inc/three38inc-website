@@ -1,0 +1,100 @@
+/*custom styles for three38inc*/
+
+.logo {
+    height: 60px; 
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.do-side-menu-opener {
+    top: 1px;
+}
+
+.do-side-menu-image {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    margin: auto;
+    padding: 0;
+    width: 60px;
+    border: none;
+    outline: 0;
+    text-indent: 0;
+    font-size: 0;
+    color: transparent;
+    background-color: transparent;
+    /*border-top:3px solid #e3e3e3;*/
+}
+.dg-center{
+    z-index: 1999;
+    /*overflow: hidden;*/
+}
+
+.dg-wrapper a .scrollbar{
+    height: 300px;
+    overflow-y: auto; 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .do-side-menu-image {
+        right: -40px;
+    }
+    .do-side-menu-image {
+        padding: 0;
+        position: absolute;
+        right: -40px;
+        text-indent: 0;
+        top: 0;
+        width: 60px;
+        z-index: 1000;
+    }
+}
+
+/*custom scrollbar for porfolio*/
+/*.scrollbar
+{
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 20px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+}
+
+.force-overflow
+{
+	min-height: 450px;
+}*/
+.scrollbar::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 6px;
+	background-color: #F5F5F5;
+}
+
+.scrollbar::-webkit-scrollbar
+{
+	width: 8px;
+	background-color: #F5F5F5;
+}
+
+.scrollbar::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #555;
+}
+/*
+.dmg-desc{
+    color: white;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}
+*/
+
+
