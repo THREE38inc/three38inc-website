@@ -97,6 +97,7 @@ min-height: 450px;
 
 .dg-container{
     overflow: hidden;
+    height: 570px;
 }
 ::-webkit-input-placeholder {
    color: white;
@@ -144,5 +145,6 @@ min-height: 450px;
 
 .do-section-heading{
     padding-top: 30px;
+    margin-bottom: 50px;
 }
 
