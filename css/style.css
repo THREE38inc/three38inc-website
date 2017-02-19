@@ -95,4 +95,8 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.dg-container{
+    overflow: hidden;
+}
+
 
