@@ -75,15 +75,71 @@
     <!--slider code included here-->
     <?php include ("includes/slider.php") ; ?>
 
-    
+    <!--================================
+        SERVICES SECTION 
+    =================================-->
+      <?php //include ("includes/services.php") ; ?>
+    <!-- SERVICES SECTION END -->
 
-    <!--about-us code included here-->
-    <?php include ('includes/about-us.php'); ?>
-    
+    <!--================================
+        CUSTOM SECTION 
+    =================================-->
+    <section class="do-custom-section do-animated-img do-section">
+        <div class="container">
+            <div class="row">
 
-    <!--services code included here-->
-    <?php include("includes/services.php"); ?>
-    
+                <!-- SECTION HEADING -->
+                <div class="do-section-heading">
+                    <h1>about us</h1>
+                    <p class="do-section-subheading">creative &amp; expert</p>
+                </div>
+                <!-- SECTION HEADING END -->
+
+                <!-- CUSTOM SECTION CONTENT -->
+                <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
+                    <p>Dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves</p>
+
+                    <a href="index.html#" class="do-btn-round-outline">more</a>
+                </div>
+                <!-- CUSTOM SECTION CONTENT END -->
+
+                <!-- CUSTOM SECTION IMG -->
+                <div class="do-animated-img-wrapper col-md-12 col-sm-12 col-xs-12">
+                    <ul class="hidden-xs">
+                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="100">
+                            <img src="images/face-1.png" alt="Custom Image">
+                        </li>
+
+                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                            <img src="images/face-2.png" alt="Custom Image">
+                        </li>
+                        
+                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="1s">
+                            <img src="images/face-3.png" alt="Custom Image">
+                        </li>
+                        
+                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="1.5s">
+                            <img src="images/face-4.png" alt="Custom Image">
+                        </li>
+                        
+                        <li class="appear slideInUp" data-wow-duration="1s" data-wow-delay="2s">
+                            <img src="images/face-5.png" alt="Custom Image">
+                        </li>
+                    </ul>
+
+                    <img src="images/custom-img.png" alt="" class="visible-xs">
+                </div>
+                <!-- CUSTOM SECTION IMG END -->
+            </div>
+        </div>
+    </section>
+    <!-- CUSTOM SECTION END -->
+
+    <!--================================
+        FEATURE SECTION 
+    =================================-->
+    <?php include("includes/features.php"); ?>
+    <!-- FEATURE SECTION END -->
 
     <!--================================
         COUNTER SECTION
@@ -197,7 +253,7 @@
     <!--================================
         PORTFOLIO SECTION 
     =================================-->
-  <?php include('includes/portfolio.php'); ?>
+  <?php //include('includes/portfolio.php'); ?>
     <!-- PORTFOLIO SECTION END -->
 
     <!--================================

@@ -27,7 +27,7 @@ HEADER
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="#about-us">About us</a>
+                        <a href="about_us.php">About us</a>
                     </li>
                     <li>
                         <a href="services.php">Services</a>
