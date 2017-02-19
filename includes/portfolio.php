@@ -98,9 +98,12 @@
         <span class="dg-next">&gt;</span>
     </nav> 
 </section>
-<div class="row">
-    <div class="col-lg-12 text-center">
-        <a href="index.html#" class="do-btn-round-outline">more</a>
-    </div>
-</div>   
-<div class='row'>&nbsp;</div>   
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <a href="index.html#" class="do-btn-round-outline">more</a>
+        </div>
+    </div>   
+    <div class='row'>&nbsp;</div>  
+</div>
+
