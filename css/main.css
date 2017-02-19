@@ -1684,7 +1684,7 @@ MENU
  */
 .do-side-menu-widget-wrap .do-side-menu-menu-wrap{
     margin-top: 45%;
-    font-size: larger;
+    font-size: large;
     height: 100%;
     -webkit-transform: translate3d(0,100%,0);
        -moz-transform: translate3d(0,100%,0);
