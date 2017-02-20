@@ -116,6 +116,28 @@ $('#aTagPortfolio').click(function() {
 
 
 /* ------------------------------------------------------------------
+                Teams wow js                     
+------------------------------------------------------------------ */
+
+    $("#do-team-carousel").owlCarousel({
+	//Items
+	items : 5,
+	itemsDesktop: [1199,5],
+	itemsDesktopSmall: [979,3],
+	itemsTablet: [768,2],
+	itemsMobile : [520,1],
+
+	//Autoplay
+	autoPlay: true,
+
+	// Navigation
+	navigation : true,
+
+	//Pagination
+	pagination: true
+});
+
+/* ------------------------------------------------------------------
                 PRELOADER                     
 ------------------------------------------------------------------ */
 // makes sure the whole site is loaded
