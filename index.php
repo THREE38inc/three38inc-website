@@ -449,64 +449,19 @@
                 <div class="row">
                     <h3>GET A QUOTE</h3>
                     <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-                    <a href="index.html#" class="do-btn-round-outline">PURCHASE</a>
+                    <a href="index.html#" class="do-btn-round-outline">REQUEST</a>
                 </div>
             </div>
         </div>
     </section>
     <!-- VIDEO SECTION END-->
 
-    <!--================================
-        SOCIAL LINK SECTION
-    =================================-->
-    <section class="do-social-link-section">
-        <div class="container">
-            <div class="row">
-                <a href="index.html#" class="do-facebook">
-                    <span>
-                        <i class="ti-facebook"></i>
-                    </span>
-                    FACEBOOK
-                </a>
-            
-                <a href="index.html#" class="do-twitter">
-                    <span>
-                        <i class="ti-twitter-alt"></i>
-                    </span>
-                    TWITTER
-                </a>
-            
-                <a href="index.html#" class="do-vimeo">
-                    <span>
-                        <i class="ti-vimeo-alt"></i>
-                    </span>
-                    vImeo
-                </a>
-            
-                <a href="index.html#" class="do-dribbble">
-                    <span>
-                        <i class="ti-dribbble"></i>
-                    </span>
-                    drIbble
-                </a>
-            
-                <a href="index.html#" class="do-behance">
-                    <span>
-                        <i class="fa fa-behance"></i>
-                    </span>
-                    behance
-                </a>
-            </div>
-        </div>
-    </section>
-    <!-- SOCIAL LINK SECTION END-->
+    <!--social link section included here-->
+    <?php include('includes/social-link.php');?>
 
-    <!--================================
-        FOOTER SECTION
-    =================================-->
+    <!--footer section included here-->
     <?php include('includes/footer.php');?>
-    <!-- FOOTER SECTION END-->
-
+    
 
         
 		

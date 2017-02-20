@@ -31,6 +31,7 @@
                     <!-- About Widget End -->
 
                     <!-- Link Widget -->
+<!--
                     <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
@@ -41,10 +42,11 @@
                             <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
+-->
                     <!-- Link Widget End -->
 
                     <!-- About Link Widget -->
-                    <div class="do-footer-widget do-about-link-widget col-md-3 col-sm-6 col-xs-12">
+                    <div class="do-footer-widget do-about-link-widget col-md-offset-3 col-sm-offset-6 col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
                             <li><a href="index.html#">About History</a></li>
@@ -55,13 +57,25 @@
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
-
-                    <!-- Flickr Widget -->
-                    <div class="do-footer-widget do-flickr-widget col-md-3 col-sm-6 col-xs-12">
-                        <h3 class="do-footer-widget-header">flickr photo</h3>
-                        <div id="flickr-gallery"></div>
+                    <div class="do-footer-widget do-reach-link-widget  col-md-3 col-sm-6 col-xs-12">
+                        <h3 class="do-footer-widget-header">Reach To Us</h3>
+                            <form class="do-reach-form" id="do-reach-form" action="includes/reach-us.php">
+                                <input type="text" name="name" id="name" placeholder="Name">
+                                <input type="text" name="email" id="email" placeholder="Email">
+                                <input type="text" name="contact" id="contact" placeholder="Contact">
+                                <textarea name="message" id="message" cols="30" rows="10" placeholder="Comment" style="height: 50px;"></textarea>
+                                <input type="submit" value="SEND" class="reach-submit do-btn-round-solid">
+                            </form>
+                        
                     </div>
-                    <!-- Flickr Widget End -->
+                    <div class="do-footer-widget do-reach-link-alert-success-widget  col-md-3 col-sm-6 col-xs-12">
+                        <h3>Your Query has been submitted successfully.You would be contacted soon.</h3>
+                        <span><i class="ti-thumb-up"></i></span>
+                    </div>
+                    <div class="do-footer-widget do-reach-link-alert-error-widget  col-md-3 col-sm-6 col-xs-12">
+                        <h3>Error in your input format, Please provide valid input.</h3>
+                        <span><i class="ti-thumb-down"></i></span>
+                    </div>
                 </div>
                 <!-- FOOTER TOP END -->
                 
@@ -70,6 +84,7 @@
                    <p class="do-footer-author-name">Copyrights © 2017 All Rights Reserved </p>
                 </div>
                 <!-- FOOTER BOTTOM END -->
-            </div>
+           
         </div>
+    </div>
     </footer>

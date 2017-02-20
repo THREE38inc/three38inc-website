@@ -98,6 +98,49 @@ min-height: 450px;
 .dg-container{
     overflow: hidden;
 }
+::-webkit-input-placeholder {
+   color: white;
+}
+
+.do-reach-form #name,#email{
+    width: calc(100% / 2 - 15px);
+}
+.do-reach-form #contact, textarea{
+    width: calc(100% - 15px);
+}
+.do-reach-form #name,#email,#contact, textarea{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    padding: 0 15px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 10px;
+    background-color: transparent;
+    border: 2px solid #e9e9e9;
+    border-radius: 20px;
+    outline: 0;
+}
+.reach-submit{
+    margin-top: 10px;
+}
+.do-reach-link-alert-success-widget,.do-reach-link-alert-error-widget{
+    color: white;
+    display: none;
+}
+.do-reach-link-alert-success-widget h3,.do-reach-link-alert-error-widget h3{
+    text-align: center;
+}
+.do-reach-link-alert-success-widget span{
+    color: green;
+    padding-left: 36%;
+}
+.do-reach-link-alert-error-widget span{
+    color: red;
+    padding-left: 36%;
+}
+.do-reach-link-alert-success-widget span i.ti-thumb-up,.do-reach-link-alert-error-widget span i.ti-thumb-down{
+    font-size: -webkit-xxx-large;
+}
 
 .do-section-heading{
     padding-top: 30px;

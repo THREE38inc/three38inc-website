@@ -1,6 +1,100 @@
 jQuery(document).ready(function(){
 	"use strict";
 
+    
+/* ------------------------------------------------------------------
+                REACH US SEND MAIL                     
+------------------------------------------------------------------ */
+    
+$('.reach-submit').on('click',function(e){
+    e.preventDefault();
+   var form=$('#do-reach-form');
+    var reg_email=/^\w+[\w-\.]*\@\w+((-\w+)|(\w*))\.[a-z]{2,3}$/;
+    var reg_name=/^[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]+$/u;
+    var reg_cont=/^\s*(?:\+?(\d{1,3}))?[-. (]*(\d{3})[-. )]*(\d{3})[-. ]*(\d{4})(?: *x(\d+))?\s*$/;
+    if($("#message").val()==""){
+        $('.do-reach-link-alert-error-widget h3').html("It seems that The Message you provided is invalid.<br/>Please reconsider the Message.");
+        $.when($('.do-reach-link-widget').fadeOut(500))
+                                            .done(function(){
+            $('.do-reach-link-alert-error-widget').fadeIn(1000);
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+                                       .done(function(){
+                $('.do-reach-link-widget').fadeIn(500);
+                $("#message").val("");
+            });
+        });
+        return false;
+    }
+    if(!reg_name.test($("#name").val())){
+        $('.do-reach-link-alert-error-widget h3').html("It seems that The Name you provided is invalid.<br/>Please reconsider the Name.");
+        $.when($('.do-reach-link-widget').fadeOut(500))
+                                            .done(function(){
+            $('.do-reach-link-alert-error-widget').fadeIn(1000);
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+                                       .done(function(){
+                $('.do-reach-link-widget').fadeIn(500);
+                $("#name").val("");
+            });
+        });
+        return false;
+    }
+    if(!reg_email.test($("#email").val())){
+        $('.do-reach-link-alert-error-widget h3').html("It seems that The Email you provided is invalid.<br/>Please reconsider the email.");
+        $.when($('.do-reach-link-widget').fadeOut(500))
+                                            .done(function(){
+            $('.do-reach-link-alert-error-widget').fadeIn(1000);
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+                                       .done(function(){
+                $('.do-reach-link-widget').fadeIn(500);
+                $("#email").val("");
+            });
+        });
+        return false;
+    }
+    if(!reg_cont.test($("#contact").val())){
+        $('.do-reach-link-alert-error-widget h3').html("It seems that The Contact you provided is invalid.<br/>Please reconsider the Contact.");
+        $.when($('.do-reach-link-widget').fadeOut(500))
+                                            .done(function(){
+            $('.do-reach-link-alert-error-widget').fadeIn(1000);
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+                                       .done(function(){
+                $('.do-reach-link-widget').fadeIn(500);
+                $("#contact").val("");
+            });
+        });
+        return false;
+    }
+         
+    $.ajax({
+        type:"POST",
+        url:form.attr("action"),
+        data:form.serialize(),
+        cache:false,
+        success: function(response){
+            console.log(response);
+            $.when($('.do-reach-link-widget').fadeOut(500))
+                                            .done(function(){
+                $('.do-reach-link-alert-success-widget').fadeIn(1000);
+                $.when($('.do-reach-link-alert-success-widget').fadeOut(5000))
+                                           .done(function(){
+                    $('.do-reach-link-widget').fadeIn(500);
+                    form.trigger('reset');
+                });
+            });
+                                            
+            
+            
+            
+        },
+        error: function(response){
+            console.log(response);
+        }
+        
+    });
+});
+    
+    
+    
 
 /* ------------------------------------------------------------------
                 PRELOADER                     
