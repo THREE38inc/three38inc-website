@@ -1,5 +1,3 @@
-
-
 <section id="dg-container" class="dg-container">
     <div class="do-section-heading">
         <h1>Works</h1>

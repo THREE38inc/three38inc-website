@@ -93,8 +93,27 @@ $('.reach-submit').on('click',function(e){
     });
 });
     
-    
-    
+
+/* ------------------------------------------------------------------
+                smooth scroll of navbar links                     
+------------------------------------------------------------------ */
+
+$('#aTagAbout-us').click(function() {
+    $('html, body').animate({
+        scrollTop: $("#about-us").offset().top - 60
+    }, 2000);
+});
+$('#aTagServices').click(function() {
+    $('html, body').animate({
+        scrollTop: $("#services").offset().top - 60
+    }, 2000);
+});
+$('#aTagPortfolio').click(function() {
+    $('html, body').animate({
+        scrollTop: $("#dg-container").offset().top - 60
+    }, 2000);
+});
+
 
 /* ------------------------------------------------------------------
                 PRELOADER                     
