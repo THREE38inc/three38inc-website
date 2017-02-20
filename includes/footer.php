@@ -63,17 +63,17 @@
                                 <input type="text" name="name" id="name" placeholder="Name">
                                 <input type="text" name="email" id="email" placeholder="Email">
                                 <input type="text" name="contact" id="contact" placeholder="Contact">
-                                <textarea name="message" id="message" cols="30" rows="10" placeholder="Comment" style="height: 50px;"></textarea>
+                                <textarea name="message" id="message" cols="30" rows="10" placeholder="Comment" style="height: 70px;font-size:small;padding:10px;"></textarea>
                                 <input type="submit" value="SEND" class="reach-submit do-btn-round-solid">
                             </form>
                         
                     </div>
                     <div class="do-footer-widget do-reach-link-alert-success-widget  col-md-3 col-sm-6 col-xs-12">
-                        <h3>Your Query has been submitted successfully.You would be contacted soon.</h3>
+                        <h4>Your Query has been submitted successfully.You would be contacted soon.</h4>
                         <span><i class="ti-thumb-up"></i></span>
                     </div>
                     <div class="do-footer-widget do-reach-link-alert-error-widget  col-md-3 col-sm-6 col-xs-12">
-                        <h3>Error in your input format, Please provide valid input.</h3>
+                        <h4>Error in your input format, Please provide valid input.</h4>
                         <span><i class="ti-thumb-down"></i></span>
                     </div>
                 </div>

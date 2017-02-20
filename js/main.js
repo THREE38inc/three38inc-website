@@ -13,11 +13,11 @@ $('.reach-submit').on('click',function(e){
     var reg_name=/^[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]+$/u;
     var reg_cont=/^\s*(?:\+?(\d{1,3}))?[-. (]*(\d{3})[-. )]*(\d{3})[-. ]*(\d{4})(?: *x(\d+))?\s*$/;
     if($("#message").val()==""){
-        $('.do-reach-link-alert-error-widget h3').html("It seems that The Message you provided is invalid.<br/>Please reconsider the Message.");
+        $('.do-reach-link-alert-error-widget h4').html("It seems that The Message you provided is invalid.<br/>Please reconsider the Message.");
         $.when($('.do-reach-link-widget').fadeOut(500))
                                             .done(function(){
             $('.do-reach-link-alert-error-widget').fadeIn(1000);
-            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(5000))
                                        .done(function(){
                 $('.do-reach-link-widget').fadeIn(500);
                 $("#message").val("");
@@ -26,11 +26,11 @@ $('.reach-submit').on('click',function(e){
         return false;
     }
     if(!reg_name.test($("#name").val())){
-        $('.do-reach-link-alert-error-widget h3').html("It seems that The Name you provided is invalid.<br/>Please reconsider the Name.");
+        $('.do-reach-link-alert-error-widget h4').html("It seems that The Name you provided is invalid.<br/>Please reconsider the Name.");
         $.when($('.do-reach-link-widget').fadeOut(500))
                                             .done(function(){
             $('.do-reach-link-alert-error-widget').fadeIn(1000);
-            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(5000))
                                        .done(function(){
                 $('.do-reach-link-widget').fadeIn(500);
                 $("#name").val("");
@@ -39,11 +39,11 @@ $('.reach-submit').on('click',function(e){
         return false;
     }
     if(!reg_email.test($("#email").val())){
-        $('.do-reach-link-alert-error-widget h3').html("It seems that The Email you provided is invalid.<br/>Please reconsider the email.");
+        $('.do-reach-link-alert-error-widget h4').html("It seems that The Email you provided is invalid.<br/>Please reconsider the email.");
         $.when($('.do-reach-link-widget').fadeOut(500))
                                             .done(function(){
             $('.do-reach-link-alert-error-widget').fadeIn(1000);
-            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(5000))
                                        .done(function(){
                 $('.do-reach-link-widget').fadeIn(500);
                 $("#email").val("");
@@ -52,11 +52,11 @@ $('.reach-submit').on('click',function(e){
         return false;
     }
     if(!reg_cont.test($("#contact").val())){
-        $('.do-reach-link-alert-error-widget h3').html("It seems that The Contact you provided is invalid.<br/>Please reconsider the Contact.");
+        $('.do-reach-link-alert-error-widget h4').html("It seems that The Contact you provided is invalid.<br/>Please reconsider the Contact.");
         $.when($('.do-reach-link-widget').fadeOut(500))
                                             .done(function(){
             $('.do-reach-link-alert-error-widget').fadeIn(1000);
-            $.when($('.do-reach-link-alert-error-widget').fadeOut(3000))
+            $.when($('.do-reach-link-alert-error-widget').fadeOut(5000))
                                        .done(function(){
                 $('.do-reach-link-widget').fadeIn(500);
                 $("#contact").val("");
