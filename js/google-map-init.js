@@ -1,5 +1,5 @@
 var locations = [
-  ['<b>THREE38 inc</b>', 13.056934,77.644260, 1]
+  ['<b>THREE38 inc</b><br>', 13.056934,77.644260, 1]
                         // 13.0570833,77.642728
 ];
 
@@ -30,7 +30,7 @@ var map = new google.maps.Map(document.getElementById('map'), {
                         "lightness": 51
                     },
                     {
-                        "visibility": "on"
+                        "visibility": "simplified"
                     }
                 ]
             },
