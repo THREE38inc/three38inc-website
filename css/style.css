@@ -1,7 +1,12 @@
 /*custom styles for three38inc*/
 
+@font-face {
+    font-family: fifa;
+    src: url(font/fifa.ttf);
+}
+
 .logo {
-    height: 60px; 
+    height: 60px;
 }
 
 .navbar-brand {
@@ -36,7 +41,7 @@
 
 .dg-wrapper a .scrollbar{
     height: 300px;
-    overflow-y: auto; 
+    overflow-y: auto;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -108,7 +113,7 @@ min-height: 450px;
 }
 .do-reach-form #contact, textarea{
     width: calc(100% - 15px);
-    
+
 }
 .do-reach-form #name,#email,#contact, textarea{
     font-family: 'Open Sans', sans-serif;
@@ -152,5 +157,14 @@ min-height: 450px;
 .do-main-menu{
     z-index: 9999;
 }
+span.fifa{
+  font-family: fifa;
+  font-weight: bold;
+  font-size: 22px;
+  color: #555;
+}
 
-
+span.fifa em{
+  color: #E74C3C;
+  font-style: normal;
+}

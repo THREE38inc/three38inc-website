@@ -1,5 +1,5 @@
 var locations = [
-  ['<b>THREE38 inc</b><br>', 13.056934,77.644260, 1]
+  ['<span class="fifa">THREE<em>38</em> inc</span><br><p>#323, Defence Avenue <br> K Narayanpura,<br> Bengaluru - 77</p>', 13.056934,77.644260, 1]
                         // 13.0570833,77.642728
 ];
 
