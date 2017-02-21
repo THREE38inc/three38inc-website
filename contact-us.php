@@ -1,3 +1,4 @@
+<?php $isMin = ture; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +46,11 @@
     <link rel="stylesheet" href="css/style.css" />
 
     <!-- MODERNIZER -->
-    <script src="js/modernizr-2.8.3.min.js"></script>
+    <?php if($isMin): ?>
+      <script src="js/min/modernizr-2.8.3.min-min.js"></script>
+    <?php else: ?>
+      <script src="js/modernizr-2.8.3.min.js"></script>
+    <?php endif; ?>
 
 
     <!--[if lt IE 9]>
@@ -82,18 +87,20 @@
     <!-- *******************************
                 SCRIPTS
     ************************************ -->
-    <!-- JQUERY -->
-    <script src="js/jquery-1.11.3.min.js"></script>
 
-    <!-- Google Map -->
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVyDUdlTYXmGhBtIVkICjGMdmYFbVLbzY"></script>
-    <script src="js/google-map-init.js"></script>
 
-    <!-- PLUGINS -->
-    <script src="js/plugins.js"></script>
-
-    <!-- CUSTOM SCRIPTS -->
-    <script src="js/main.js"></script>
+    <?php if($isMin): ?>
+      <script src="js/min/jquery-1.11.3.min-min.js"></script>
+      <script src="js/min/google-map-init-min.js"></script>
+      <script src="js/min/plugins-min.js"></script>
+      <script src="js/min/main-min.js"></script>
+    <?php else: ?>
+      <script src="js/jquery-1.11.3.min.js"></script>
+      <script src="js/google-map-init.js"></script>
+      <script src="js/plugins.js"></script>
+      <script src="js/main.js"></script>
+    <?php endif; ?>
 
 </body>
 
