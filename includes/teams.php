@@ -161,7 +161,7 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/abijith.benny">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
@@ -189,18 +189,18 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/JOELMATHEWAYVELIL">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-linkedin"></i>
+                                <a href="https://plus.google.com/113718643207082650584">
+                                    <i class="fa fa-google"></i>
                                 </a>
                             </li>
 
@@ -217,18 +217,18 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/sarath.mohan.7946">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-linkedin"></i>
+                                <a href="https://plus.google.com/105651484692865211244">
+                                    <i class="fa fa-google"></i>
                                 </a>
                             </li>
 
@@ -245,20 +245,22 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/rose.justy">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
+<!--
                             <li>
                                 <a href="index.html#">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
+-->
 
                         </ul>
                     </div>
@@ -273,20 +275,22 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/sandhya.sudhakaran.1">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
+<!--
                             <li>
                                 <a href="index.html#">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
+-->
 
                         </ul>
                     </div>

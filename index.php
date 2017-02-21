@@ -148,8 +148,8 @@
             $(document).on('mouseenter','a.dg-center .scrollbar',function(){
 
                 var height=$(this).children('img').height()-$(this).height()+35;
-                console.log($(this).children('img').height());
-                console.log($(this).height());
+//                console.log($(this).children('img').height());
+//                console.log($(this).height());
                 $(this).animate({scrollTop:height}, 5000, 'swing', function() {
                     $(this).animate({scrollTop:0}, 1000, 'swing');
                 });
