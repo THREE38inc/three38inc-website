@@ -53,7 +53,7 @@
         <script src="js/respond.min.js"></script>
         <script src="js/selectivizr-min.js"></script>
         <script src="js/nwmatcher.js"></script>
-        <script src="js/IE9.js"></script>		
+        <script src="js/IE9.js"></script>
 	<![endif]-->
 </head>
 
@@ -72,7 +72,7 @@
 
     <!--page-content-->
     <?php include('includes/contact-page-content.php')?>
-    
+
     <!--social link section included here-->
     <?php include('includes/social-link.php');?>
 
@@ -86,7 +86,7 @@
     <script src="js/jquery-1.11.3.min.js"></script>
 
     <!-- Google Map -->
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVyDUdlTYXmGhBtIVkICjGMdmYFbVLbzY"></script>
     <script src="js/google-map-init.js"></script>
 
     <!-- PLUGINS -->
