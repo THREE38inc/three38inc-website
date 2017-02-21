@@ -1,4 +1,4 @@
-<?php $isMin = ture; ?>
+<?php $isMin = true; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -138,7 +138,7 @@
       <script src="js/main.js"></script>
       <script type="text/javascript" src="js/jquery.gallery.js"></script>
     <?php endif; ?>
-    
+
     <script type="text/javascript">
         $(function() {
             // this is important for IEs
