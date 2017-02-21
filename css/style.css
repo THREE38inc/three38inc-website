@@ -99,7 +99,7 @@ min-height: 450px;
     overflow: hidden;
     height: 570px;
 }
-::-webkit-input-placeholder {
+.do-reach-form::-webkit-input-placeholder {
    color: white;
 }
 

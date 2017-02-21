@@ -27,16 +27,16 @@ HEADER
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="#about-us" id="aTagAbout-us">About us</a>
+                        <a href="index.php#about-us" id="aTagAbout-us">About us</a>
                     </li>
                     <li>
-                        <a href="#services" id="aTagServices">Services</a>
+                        <a href="index.php#services" id="aTagServices">Services</a>
                     </li>
                     <li>
-                        <a href="#portfolio" id="aTagPortfolio">Portfolio</a>
+                        <a href="index.php#portfolio" id="aTagPortfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a href="contact_us.php" id="aTagContact-us">Contact</a>
+                        <a href="contact-us.php" id="aTagContact-us">Contact</a>
                     </li>
                 </ul>
             </div>
