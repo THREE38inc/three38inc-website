@@ -99,7 +99,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <a href="index.html#" class="do-btn-round-outline">more</a>
+            <a href="index.html#" class="do-btn-round-outline hide">more</a>
         </div>
     </div>   
     <div class='row'>&nbsp;</div>  

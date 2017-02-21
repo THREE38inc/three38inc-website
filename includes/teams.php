@@ -17,7 +17,7 @@
                         <h3>
                             <a href="index.php#">JOBITH M BASHEER</a>
                         </h3>
-                        <p>Co-Founder &amp; Full-Stack Developer</p>
+                        <p>Co-Founder <br> Full-Stack Developer</p>
 
                         <ul>
                             <li>

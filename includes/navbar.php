@@ -15,7 +15,7 @@ HEADER
                 </button>
 
                 <!-- Logo -->
-                <a class="navbar-brand" href="index.php"><img class="logo" src="images/Logo_338.png" alt="DO"></a>
+                <a class="navbar-brand" href="index.php"><img class="logo" src="images/Logo_338.png" alt="THREE38inc"></a>
 
             </div>
             <!-- Navbar Toggle End -->

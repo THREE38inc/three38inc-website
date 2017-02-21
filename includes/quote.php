@@ -15,7 +15,7 @@
             <div class="row">
                 <h3>GET A QUOTE</h3>
                 <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-                <a class="do-btn-round-outline md-trigger" data-modal="modal-12">REQUEST</a>
+                <a class="do-btn-round-outline md-trigger" data-modal="modal-12" href="../contact-us.php">REQUEST</a>
             </div>
         </div>
     </div>

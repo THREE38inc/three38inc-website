@@ -54,11 +54,11 @@ Main Slider
 
 
                 <h1 class="sp-layer do-slider-text-big"
-                    data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">Your Idea Our Solution </h1>
+                    data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200"><img class="logo" src="images/Logo_338.png" alt="THREE38inc"></h1>
 
                 <p class="sp-layer do-slider-text-small"
-                   data-position="center" data-vertical="90" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down">
-                    Leverage Technology with Creativity at its Best 
+                   data-position="center" data-vertical="90" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down" style="">
+                    THINK FAST , WORK TOGETHER , HAVE FUN 
                 </p>
             </div>
             <!-- Slides End -->

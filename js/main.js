@@ -128,7 +128,7 @@ $('#aTagPortfolio').click(function() {
 	itemsMobile : [520,1],
 
 	//Autoplay
-	autoPlay: true,
+	//autoPlay: true,
 
 	// Navigation
 	navigation : true,
@@ -737,12 +737,18 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 			}
 			//check invalid email
 			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            var reg_cont=/^\s*(?:\+?(\d{1,3}))?[-. (]*(\d{3})[-. )]*(\d{3})[-. ]*(\d{4})(?: *x(\d+))?\s*$/;
 			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
 				$(this).css('border','1px solid #FC4848'); //change border color to red
 				proceed = false; //set do not proceed flag
 			}
+            if($(this).attr("name")=="contact" && !reg_cont.test($.trim($(this).val()))){
+				$(this).css('border','1px solid #FC4848'); //change border color to red
+				proceed = false; //set do not proceed flag
+			}
+            
 		});
-
+        
 		$(".do-home-contact-form #contact-form input, .do-home-contact-form #contact-form textarea").each(function(){
 			$(this).css('border-bottom-color','');
 			if(!$.trim($(this).val())){ //if this field is empty
@@ -758,6 +764,7 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
 				$(this).css('border-bottom','2px solid #FC4848'); //change border color to red
 				proceed = false; //set do not proceed flag
 			}
+            
 		});
 
         if(proceed) //everything looks good! proceed...
@@ -766,11 +773,13 @@ var wrapperH = $('.do-homepage-2nd header, .do-homepage-fourth header').height()
             var post_data = {
 				'name'		: $('input[name=name]').val(),
 				'email'	: $('input[name=email]').val(),
+				'contact'	: $('input[name=contact]').val(),
 				'message'		: $('textarea[name=message]').val()
 			};
             var output = '';
             //Ajax post data to server
-            $.post('contact.php', post_data, function(response){
+            $.post('includes/contact-send-mail.php', post_data, function(response){
+                console.log(response);
 				if(response.type == 'error'){ //load json data from server and output message
 					output = '<div class="error">'+response.text+'</div>';
 				}else{

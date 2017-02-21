@@ -39,7 +39,7 @@
                     <div id="contact-form" class="do-contact-form">
                         <input type="text" name="name" id="name1" placeholder="Name" required>
                         <input type="email" name="email" id="email1" placeholder="Email" required>
-                        <input type="text" name="web" id="web1" placeholder="Web">
+                        <input type="text" name="contact" id="contact1" placeholder="Contact" required>
 
                         <textarea name="message" id="message1" cols="30" rows="10" class="do-input-message" placeholder="Comment" required></textarea>
 
@@ -51,36 +51,47 @@
                 <!-- ADDRESS -->
                 <div class="do-contact-add-wrapper">
                     <div class="do-contact-info">
-                        <h4>CONTACT INFO</h4>
-                        <p>Explain to you how all this mistaken idea of denouncing a teachings of the great explorer of the truth</p>
+                        <h4></h4>
+                        <p></p>
                     </div>
 
                     <div class="do-contact-address">
                         <h4>CONTACT INFO</h4>
                         <ul>
-                            <li class="do-address">Road 34, House 55<br> Envato Park street, Canbera lane<br>Australia</li>
-
-                            <li class="do-phone">[ 06 ] 862 015 091</li>
-                            <li class="do-email">mail@dave.com</li>
+                            <li class="do-address">#323, Defence Avenue<br> K Narayanpura,<br> Bengaluru - 77</li>
+                            <li class="do-phone">[ +91 ] 8904330374</li>
+                            <li class="do-email">hello@three38inc.com</li>
                         </ul>
 
+
                         <div class="do-coantact-social">
-                            <a href="contact_us.html#">
-                                <i class="ti-facebook"></i>
+                            <a href="https://www.facebook.com/dropmygift/" class="do-facebook" target="_blank">
+                                <span>
+                        <i class="ti-facebook"></i>
+                    </span> 
                             </a>
-                            <a href="contact_us.html#">
-                                <i class="ti-twitter-alt"></i>
+
+                            <a href="https://plus.google.com/+Dropmygift" target="_blank" class="do-google-plus">
+                                <span>
+                        <i class="ti-google"></i>
+                    </span> 
                             </a>
-                            <a href="contact_us.html#">
-                                <i class="ti-vimeo-alt"></i>
+
+                            <a href="https://github.com/THREE38inc" target="_blank" class="do-github">
+                                <span>
+                        <i class="ti-github"></i>
+                    </span>
                             </a>
-                            <a href="contact_us.html#">
-                                <i class="ti-dribbble"></i>
-                            </a>
-                            <a href="contact_us.html#">
-                                <i class="fa fa-behance"></i>
+
+
+
+                            <a href="index.html#" class="do-behance" target="_blank">
+                                <span>
+                        <i class="fa fa-behance"></i>
+                    </span> 
                             </a>
                         </div>
+
                     </div>
                 </div>
                 <!-- ADDRESS END -->

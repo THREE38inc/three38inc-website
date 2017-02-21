@@ -13,7 +13,7 @@
                 <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
                     <p>We are a team of hardcore technology creationists and bold creative designers driven by one goal, to convert your ideas and business challenges into compelling and cogent solutions. THREE38 inc nurtures your ideas and ameliorates (fancy word for making it ‘better’) them into solutions, that have a perfect blend of technology superiority and creative audacity.</p>
 
-                    <a href="index.html#" class="do-btn-round-outline">more</a>
+                    <a href="index.html#" class="do-btn-round-outline hide">more</a>
                 </div>
                 <!-- ABOUT US SECTION CONTENT END -->
 
