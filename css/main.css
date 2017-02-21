@@ -2804,7 +2804,8 @@ MEMBER DETAILS
     display: inline-block;
     *display: inline;
     *zoom: 1;
-    padding: 50px 70px 50px;
+    padding: 50px 0px;
+    min-width: 250px;
     text-align: center;
     position: absolute;
     overflow: hidden;

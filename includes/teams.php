@@ -21,17 +21,17 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/jobithmb" target="_blank">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://github.com/jobith93">
                                     <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.linkedin.com/in/jobithmb">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
@@ -45,22 +45,22 @@
                         <h3>
                             <a href="index.php#">KURIAN GEORGE CHERIPURATHU</a>
                         </h3>
-                        <p>Co-Founder &amp; Full-Stack Designer</p>
+                        <p>Co-Founder <br> Full-Stack Designer</p>
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/akmkurian">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://github.com/THREE38inc">
                                     <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-linkedin"></i>
+                                <a href="https://www.behance.net/three38inc" target="_blank">
+                                    <i class="fa fa-behance"></i>
                                 </a>
                             </li>
 
@@ -77,17 +77,17 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/sonu.abraham.56">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.linkedin.com/in/sonu-abraham-k-a09490137/">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
@@ -105,17 +105,17 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/JijoPuthiyath">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.linkedin.com/in/jijo-joseph-b9a840104/">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
