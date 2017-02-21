@@ -42,11 +42,11 @@ Main Slider
                     <img src="images/slider_image/coffee-cup.png" alt="">
                 </div>
 
-                <div class="sp-layer do-slider-img do-keyboard-img" data-position="bottomCenter" data-vertical="0" data-show-delay="5000" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="23.84%">
+                <div class="sp-layer do-slider-img do-keyboard-img" data-position="bottomCenter" data-vertical="-20" data-show-delay="5000" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="23.84%">
                     <img src="images/slider_image/keyboard.png" alt="">
                 </div>
 
-                <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="150" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
+                <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="170" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
                     <a data-scroll href="index.php#about-us">
                         <img src="images/slider_image/arrow.png" alt="">
                     </a>
@@ -57,7 +57,7 @@ Main Slider
                     data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200"><img class="logo" src="images/Logo_338.png" alt="THREE38inc"></h1>
 
                 <p class="sp-layer do-slider-text-small"
-                   data-position="center" data-vertical="90" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down" style="">
+                   data-position="center" data-vertical="120" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down" >
                     THINK FAST , WORK TOGETHER , HAVE FUN 
                 </p>
             </div>

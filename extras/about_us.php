@@ -512,7 +512,7 @@
                     drIbble
                 </a>
             
-                <a href="about_us.html#" class="do-behance">
+                <a href="https://www.behance.net/three38inc" class="do-behance">
                     <span>
                         <i class="fa fa-behance"></i>
                     </span>

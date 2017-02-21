@@ -10,7 +10,7 @@
 
                 <div class="do-breadcumb">
                     <ul>
-                        <li><a href="contact_us.html#">HOME</a></li>
+                        <li><a href="index.php">HOME</a></li>
                         <li><span>CONTACT</span></li>
                     </ul>
                 </div>
@@ -60,18 +60,19 @@
                         <ul>
                             <li class="do-address">#323, Defence Avenue<br> K Narayanpura,<br> Bengaluru - 77</li>
                             <li class="do-phone">[ +91 ] 8904330374</li>
+                            <li class="do-phone" style="margin-top:-7px">[ +91 ] 8050611198</li>
                             <li class="do-email">hello@three38inc.com</li>
                         </ul>
 
 
                         <div class="do-coantact-social">
-                            <a href="https://www.facebook.com/dropmygift/" class="do-facebook" target="_blank">
+                            <a href="https://www.facebook.com/THREE38/" class="do-facebook" target="_blank">
                                 <span>
                         <i class="ti-facebook"></i>
                     </span> 
                             </a>
 
-                            <a href="https://plus.google.com/+Dropmygift" target="_blank" class="do-google-plus">
+                            <a href="https://plus.google.com/109113945477119760612" target="_blank" class="do-google-plus">
                                 <span>
                         <i class="ti-google"></i>
                     </span> 
@@ -85,7 +86,7 @@
 
 
 
-                            <a href="index.html#" class="do-behance" target="_blank">
+                            <a href="https://www.behance.net/three38inc" class="do-behance" target="_blank">
                                 <span>
                         <i class="fa fa-behance"></i>
                     </span> 

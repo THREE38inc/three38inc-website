@@ -24,7 +24,7 @@
             
 
             
-                <a href="index.html#" class="do-behance" target="_blank">
+                <a href="https://www.behance.net/three38inc" class="do-behance" target="_blank">
                     <span>
                         <i class="fa fa-behance"></i>
                     </span>
