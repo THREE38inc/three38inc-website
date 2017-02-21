@@ -133,17 +133,17 @@
 
                         <ul>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.facebook.com/Nidhin.A.Manjaly">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.linkedin.com/in/nidhin-manjaly-6a2b37a7/">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
@@ -166,12 +166,12 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
-                                    <i class="fa fa-twitter"></i>
+                                <a href="https://github.com/THREE38inc">
+                                    <i class="fa fa-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="index.html#">
+                                <a href="https://www.linkedin.com/in/abijith-benny-82ba7290/">
                                     <i class="fa fa-linkedin"></i>
                                 </a>
                             </li>
