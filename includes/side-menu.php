@@ -28,12 +28,12 @@ SIDE MENU
                 <br/>
                 Explore the wide array of gifts to find the one that suits your needs the best.
                 <br/>
-                <a href="https://dropmygift.com/shop/" class="do-btn-round-outline" style="margin-top:15px;">SHOP NOW</a>
+                <a href="https://dropmygift.com/shop/" class="do-btn-round-outline" style="margin-top:20%;">SHOP NOW</a>
             </div>
             <!-- MENU END -->
 
             <!-- SOCIAL ICONS -->
-            <div class="do-side-menu-social-icon">
+            <div class="do-side-menu-social-icon" style="margin-top: 55px;">
                 <ul>
                     <li>
                         <a href="https://www.facebook.com/dropmygift/" target="_blank">

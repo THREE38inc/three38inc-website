@@ -45,6 +45,7 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="css/port_style.css" />
+    <link rel="stylesheet" href="css/quote.css"/>
     <link rel="stylesheet" href="css/style.css" />
 
     <!-- MODERNIZER -->
@@ -75,124 +76,17 @@
     <!--slider code included here-->
     <?php include ("includes/slider.php") ; ?>
 
-    
-
     <!--about-us code included here-->
     <?php include ('includes/about-us.php'); ?>
-    
 
     <!--services code included here-->
     <?php include("includes/services.php"); ?>
     
-
-    <!--================================
-        COUNTER SECTION
-    =================================-->
-    <section class="do-counter-section" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="50">
-        <div class="do-dark-overlay"></div>
-        <div class="container">
-            <div class="row">
-                <!-- BLOG -->
-                <div class="do-counter-wrapper">
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-graph3"></i>
-                        <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                        <span>work</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-bicycle"></i>
-                        <h3 class="do-counter" data-from="0" data-to="276500">0</h3>
-                        <span>sale</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-coffee"></i>
-                        <h3 class="do-counter" data-from="0" data-to="148630">0</h3>
-                        <span>demo</span>
-                    </div>
-
-                    <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
-                        <i class="pe-7s-graph1"></i>
-                        <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                        <span>client</span>
-                    </div>
-                </div>
-                <!-- BLOG END -->
-            </div>
-        </div>
-    </section>
-    <!-- COUNTER SECTION END -->
-
-    <!--================================
-        CUSTOM SECTION 3
-    =================================-->
-    <div class="do-custom-section-three">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12 do-custom-sec3-col-1">
-                    <h3>facts WE HAVE</h3>
-                    <p>counter buti because those who do not know how an puIse pleasure rationally encounter consequences that are painci No one rejects, dislikes, or avoids pleasure itself, because is counter buti because those who do not know how an puIse Nor again is there anyone who loves or pursues and desirn <br>
-                    <br> 
-                    pleasure rationally encounter consequences that are painci counter buti because those who do not know how an puIse pleasure rationally encounter. Nor again is there anyone who loves or pursues and desirn</p>
-                </div>
-
-                <div class="col-md-4 col-sm-4 col-xs-12 col-xs-12 do-custom-sec3-col-2">
-                    <h3>KEY FEATURES</h3>
-                    <ul class="do-icon-list">
-                        <li><i class="fa fa-angle-right"></i> Pleasures rationally encounter consequences</li>
-                        <li><i class="fa fa-angle-right"></i> Sample analysis and  mobile networking system</li>
-                        <li><i class="fa fa-angle-right"></i> Business communication management</li>
-                        <li><i class="fa fa-angle-right"></i>Sample analysis and  mobile networking system</li>
-                        <li><i class="fa fa-angle-right"></i> Technical writing with perfect translation</li>
-                        <li><i class="fa fa-angle-right"></i> Web data structural development ready</li>
-                        <li><i class="fa fa-angle-right"></i> Business communication management</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4 col-sm-4 col-xs-12 col-xs-12 do-custom-sec3-col-3">
-                    <h3>PROGRESS BAR</h3>
-                    <div class="do-our-skill">
-                        <!-- Design Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="70">
-                            <p class="do-skillbar-title">Design<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div> 
-                        <!-- Design Skill Bar End -->
-
-                        <!-- Code Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">code<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Code Skill Bar End -->
-
-                        <!-- Writing Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">writing<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Writing Skill Bar End -->
-
-                        <!-- Photography Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="40">
-                            <p class="do-skillbar-title">photography<span class="skill-bar-percent"></span></p>
-                            <div class="do-skillbar-bar-wrapper">
-                                <div class="do-skillbar-bar"></div>
-                            </div>
-                        </div>
-                        <!-- Photography Skill Bar End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!--counter section included here-->
+    <?php include('includes/counter.php');?>
+    
+    <!--custom sections-->
+    <?php include('includes/facts-n-features.php');?>
 
     <!-- portfolio section included here-->
     <?php include('includes/portfolio.php'); ?>
@@ -200,94 +94,12 @@
     <!-- Team section included here-->
     <?php include('includes/teams.php');?>
 
+    <!--Testimonial section included here-->
+    <?php include('includes/testimonial.php');?>
 
-    <!--================================
-        TESTIMONIAL SECTION
-    =================================-->
-    <section class="do-testimonial-section" data-stellar-background-ratio="0.5">
-        <div class="do-dark-overlay"></div>
-        <div class="container">
-            <div class="row">
-
-                <!-- SECTION HEADING -->
-                <div class="do-section-heading do-section-heading-light">
-                    <h1>CLIENT SAYS</h1>
-                </div>
-                <!-- SECTION HEADING END -->
-
-                <!-- Testimonial Slider -->
-                <div id="do-testimonial-1st" class="owl-carousel do-testimonial">
-
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Like what you see? Buy this theme with the click of a button and let us know what you</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-3.png" alt="">
-                    </div>
-                    <!-- Slides End -->
-
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-2.png" alt="">
-                    </div>
-                    <!-- Slides End -->
-
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature.png" alt="">
-                    </div>
-                    <!-- Slides End -->
-
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-2.png" alt="">
-                    </div>
-                    <!-- Slides End -->
-                </div>
-                <!-- Testimonial Slider End -->
-            </div>
-        </div>
-    </section>
-
-
-   
-
-
-
-
-    <!--================================
-        VIDEO SECTION
-    =================================-->
-    <section class="do-custom-video-section do-video-section do-section">
-        <!-- Background Video -->
-        <div class="do-custom-bg-video-wrapper">
-            <video autoplay loop poster="images/poster.jpg" id="bgvid">
-                <!-- <source src="video.webm" type="video/webm"> -->
-                <source src="video.mp4" type="video/mp4">
-            </video>
-        </div>
-        <!-- Background Video End -->
-
-        <div class="do-parallax-overlay"></div>
-
-        <div class="do-custom-video-content-wrapper">
-            <div class="container">
-                <div class="row">
-                    <h3>GET A QUOTE</h3>
-                    <p>On the other hand, we denounce with right ous indignation and dislike mens beguiled</p>
-                    <a href="index.html#" class="do-btn-round-outline">REQUEST</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- VIDEO SECTION END-->
-
+    <!--quote sectionincluded here-->
+    <?php include('includes/quote.php');?>
+    
     <!--social link section included here-->
     <?php include('includes/social-link.php');?>
 
@@ -295,8 +107,8 @@
     <?php include('includes/footer.php');?>
     
 
-        
-		
+    <!--overlay for quotation   -->
+	<div class="md-overlay"></div>	
 
 
 
@@ -312,13 +124,20 @@
     
     <!-- PLUGINS -->
     <script src="js/plugins.js"></script>
-
+    
+    <!--Quote js -->
+    <script src="js/classie.js"></script>
+    <script src="js/modalEffects.js"></script>
+    
     <!-- CUSTOM SCRIPTS -->    
     <script src="js/main.js"></script>
     <!-- script for portfolio-->
     <script type="text/javascript" src="js/jquery.gallery.js"></script>
     <script type="text/javascript">
         $(function() {
+            // this is important for IEs
+			var polyfilter_scriptpath = '/js/';
+            
             $('#dg-container').gallery();
             $(document).on('mouseenter','a.dg-center .scrollbar',function(){
                
@@ -336,6 +155,6 @@
             
         });
     </script>
-              					
+          					
 </body>
 </html>

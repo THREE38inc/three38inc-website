@@ -65,6 +65,12 @@ SLIDER
   text-transform: uppercase;
 }
 
+    
+/*sidebar*/
+    .do-side-menu-widget-wrap .do-side-menu-logo-wrap img{
+        max-height: 20%;
+    }    
+    
 /**************************************************************************
                                 # ABOUT US #
 **************************************************************************/
@@ -540,8 +546,9 @@ SIDE MENU BTN
 
 .do-side-menu-widget-wrap .do-side-menu-menu-wrap {
     height: 325px;
-    margin-top: 45%;
-    font-size: larger;
+    margin: 45% 10%;
+    font-size: small;
+    letter-spacing: 1px;
   transform: translate3d(0px, 100%, 0px);
   transition: transform 0s cubic-bezier(0.7, 0, 0.3, 1) 0.4s;
 }

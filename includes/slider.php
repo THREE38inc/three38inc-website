@@ -47,18 +47,18 @@ Main Slider
                 </div>
 
                 <div class="sp-layer do-slider-img do-arrow-img" data-position="bottomCenter" data-vertical="150" data-show-delay="5500" data-hide-delay="200" data-show-transition="up" data-hide-transition="down" data-width="36">
-                    <a data-scroll href="index.html#do-sevice-section">
+                    <a data-scroll href="index.php#about-us">
                         <img src="images/slider_image/arrow.png" alt="">
                     </a>
                 </div>
 
 
                 <h1 class="sp-layer do-slider-text-big"
-                    data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">WEB DESIGN</h1>
+                    data-position="center" data-vertical="0" data-show-transition="left" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">Your Idea Our Solution </h1>
 
                 <p class="sp-layer do-slider-text-small"
                    data-position="center" data-vertical="90" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down">
-                    BEST <span class="do-color-text">THEME</span> FOR BUSINESS 
+                    Leverage Technology with Creativity at its Best 
                 </p>
             </div>
             <!-- Slides End -->
@@ -95,11 +95,11 @@ Main Slider
                 </div>
 
                 <h1 class="sp-layer do-slider-text-big do-slider-2nd-text"
-                    data-position="topCenter" data-vertical="100" data-horizontal="0" data-show-transition="down" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">PIXEL PERFECT</h1>
+                    data-position="topCenter" data-vertical="100" data-horizontal="0" data-show-transition="down" data-hide-transition="up" data-show-delay="1000" data-hide-delay="200">WE MAKE </h1>
 
                 <p class="sp-layer do-slider-text-small"
                    data-position="topCenter" data-vertical="150" data-show-delay="1500" data-hide-delay="200" data-show-transition="down" data-hide-transition="down">
-                    DESIGN MAKES CHANGE
+                    YOUR DREAM COME TRUE
                 </p>
             </div>
             <!-- Slides End -->

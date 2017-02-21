@@ -11,7 +11,7 @@
 
                 <!-- ABOUT US SECTION CONTENT -->
                 <div class="do-custom-section-content col-md-10 col-sm-10 col-xs-12 col-md-offset-1 col-sm-offset-1">
-                    <p>Dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves</p>
+                    <p>We are a team of hardcore technology creationists and bold creative designers driven by one goal, to convert your ideas and business challenges into compelling and cogent solutions. THREE38 inc nurtures your ideas and ameliorates (fancy word for making it ‘better’) them into solutions, that have a perfect blend of technology superiority and creative audacity.</p>
 
                     <a href="index.html#" class="do-btn-round-outline">more</a>
                 </div>
