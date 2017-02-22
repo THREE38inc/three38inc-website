@@ -6,25 +6,25 @@
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
                     <i class="pe-7s-graph3"></i>
                     <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                    <span>work</span>
+                    <span>Hours of work</span>
                 </div>
 
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
                     <i class="pe-7s-bicycle"></i>
-                    <h3 class="do-counter" data-from="0" data-to="276500">0</h3>
-                    <span>sale</span>
+                    <h3 class="do-counter" data-from="0" data-to="2765000">0</h3>
+                    <span>Lines of Code</span>
                 </div>
 
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
                     <i class="pe-7s-coffee"></i>
-                    <h3 class="do-counter" data-from="0" data-to="148630">0</h3>
-                    <span>demo</span>
+                    <h3 class="do-counter" data-from="0" data-to="34200">0</h3>
+                    <span>No of Coffe cups</span>
                 </div>
 
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
                     <i class="pe-7s-graph1"></i>
-                    <h3 class="do-counter" data-from="0" data-to="136800">0</h3>
-                    <span>client</span>
+                    <h3 class="do-counter" data-from="0" data-to="1368">0</h3>
+                    <span>Promising Clients</span>
                 </div>
             </div>
         </div>
