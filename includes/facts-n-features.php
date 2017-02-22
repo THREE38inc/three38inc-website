@@ -35,7 +35,7 @@
 
                         <!-- Code Skill Bar -->
                         <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">code<span class="skill-bar-percent"></span></p>
+                            <p class="do-skillbar-title">Web Development<span class="skill-bar-percent"></span></p>
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
