@@ -1,7 +1,7 @@
 <!-- **************************************
 Main Slider
 *************************************** -->
-<section class="do-main-slider">
+<section class="do-main-slider" id="slider">
 
     <div class="slider-pro do-homeone-slider" id="do-homeone-slider">
 

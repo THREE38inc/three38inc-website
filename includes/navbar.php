@@ -23,8 +23,9 @@ HEADER
             <!-- navbar-collapse start-->
             <div id="nav-menu" class="navbar-collapse do-menu-wrapper collapse" role="navigation">
                 <ul class="nav navbar-nav do-menus">
-                    <li class="active">
-                        <a href="index.php">Home</a>
+                    
+                    <li>
+                        <a href="index.php#slider" id="aTagHome">Home</a>
                     </li>
                     <li>
                         <a href="index.php#about-us" id="aTagAbout-us">About us</a>
@@ -35,7 +36,7 @@ HEADER
                     <li>
                         <a href="index.php#portfolio" id="aTagPortfolio">Portfolio</a>
                     </li>
-                    <li>
+                    <li<?php if(basename($_SERVER['PHP_SELF'])=="contact-us.php")echo' class="active"';?>>
                         <a href="contact-us.php" id="aTagContact-us">Contact</a>
                     </li>
                 </ul>

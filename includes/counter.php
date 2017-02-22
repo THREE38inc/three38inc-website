@@ -18,7 +18,7 @@
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">
                     <i class="pe-7s-coffee"></i>
                     <h3 class="do-counter" data-from="0" data-to="34200">0</h3>
-                    <span>No of Coffe cups</span>
+                    <span>No of Coffee cups</span>
                 </div>
 
                 <div class="do-counter-items col-md-3 col-sm-3 col-xs-12">

@@ -97,21 +97,35 @@ $('.reach-submit').on('click',function(e){
 /* ------------------------------------------------------------------
                 smooth scroll of navbar links                     
 ------------------------------------------------------------------ */
-
+$('#aTagHome').click(function() {
+    $('html, body').animate({
+        scrollTop: $("#slider").offset().top - 60
+    }, 2000);
+    console.log("kk");
+    $(this).parent().siblings().removeClass("active");
+    $(this).parent().addClass("active");
+});
 $('#aTagAbout-us').click(function() {
     $('html, body').animate({
         scrollTop: $("#about-us").offset().top - 60
     }, 2000);
+    $(this).parent().siblings().removeClass("active");
+    $(this).parent().addClass("active");
 });
 $('#aTagServices').click(function() {
     $('html, body').animate({
         scrollTop: $("#services").offset().top - 60
     }, 2000);
+    console.log("kk");
+    $(this).parent().siblings().removeClass("active");
+    $(this).parent().addClass("active");
 });
 $('#aTagPortfolio').click(function() {
     $('html, body').animate({
         scrollTop: $("#dg-container").offset().top - 60
     }, 2000);
+    $(this).parent().siblings().removeClass("active");
+    $(this).parent().addClass("active");
 });
 
 

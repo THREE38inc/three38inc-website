@@ -25,8 +25,8 @@
                     <h3>PROGRESS BAR</h3>
                     <div class="do-our-skill">
                         <!-- Design Skill Bar -->
-                        <div class="do-skillbar clearfix" data-percent="70">
-                            <p class="do-skillbar-title">Design<span class="skill-bar-percent"></span></p>
+                        <div class="do-skillbar clearfix" data-percent="85">
+                            <p class="do-skillbar-title">WEB<span class="skill-bar-percent"></span></p>
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
@@ -35,7 +35,7 @@
 
                         <!-- Code Skill Bar -->
                         <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">Web Development<span class="skill-bar-percent"></span></p>
+                            <p class="do-skillbar-title">APPS<span class="skill-bar-percent"></span></p>
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
@@ -44,7 +44,7 @@
 
                         <!-- Writing Skill Bar -->
                         <div class="do-skillbar clearfix" data-percent="80">
-                            <p class="do-skillbar-title">writing<span class="skill-bar-percent"></span></p>
+                            <p class="do-skillbar-title">GRAPHICS<span class="skill-bar-percent"></span></p>
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
@@ -53,7 +53,7 @@
 
                         <!-- Photography Skill Bar -->
                         <div class="do-skillbar clearfix" data-percent="75">
-                            <p class="do-skillbar-title">App Development<span class="skill-bar-percent"></span></p>
+                            <p class="do-skillbar-title">WRITTING<span class="skill-bar-percent"></span></p>
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
