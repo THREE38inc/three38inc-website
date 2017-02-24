@@ -49,11 +49,11 @@
                     <div class="do-footer-widget do-about-link-widget col-md-offset-3 col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
-                            <li><a href="index.html#">About History</a></li>
-                            <li><a href="index.html#">Company Philoshophy</a></li>
-                            <li><a href="index.html#">Corporate Profile</a></li>
-                            <li><a href="index.html#">Our Team</a></li>
-                            <li><a href="index.html#">Somewhere in</a></li>
+                            <li><a href="index.php#">About History</a></li>
+                            <li><a href="index.php#">Company Philoshophy</a></li>
+                            <li><a href="index.php#">Corporate Profile</a></li>
+                            <li><a href="index.php#">Our Team</a></li>
+                            <li><a href="index.php#">Somewhere in</a></li>
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
