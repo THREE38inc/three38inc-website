@@ -217,8 +217,11 @@ span.fifa em {
     top: 50%;
     left: -5%;
     font-size: x-large;
-    background-color: #e74c3c;
-    padding: 10px 10px 5px;
+    background: transparent url(../images/portfolio-image/arrows.png) no-repeat top left;
+    padding: 12px 12px;
+    background-position: top left;
+    margin-left: 10px;
+    opacity: 1;
 }
 
 .owl-theme .owl-controls .owl-buttons div.owl-next {
@@ -226,27 +229,49 @@ span.fifa em {
     top: 50%;
     right: -5%;
     font-size: x-large;
-    background-color: #e74c3c;
-    padding: 10px 10px 5px;
+    background: transparent url(../images/portfolio-image/arrows.png) no-repeat top left;
+    padding: 12px 12px;
+    background-position: top right;
+    margin-right: 10px;
+    opacity: 1;
 }
 
 @media only screen and (max-width: 768px) {
     .owl-theme .owl-controls .owl-buttons div.owl-prev {
         position: absolute;
-        padding: 10px 10px 5px;
-        border-radius: 17px;
         top: 33%;
         left: 2px;
         font-size: x-large;
-        background-color: #e74c3c;
+        background: transparent url(../images/portfolio-image/arrows.png) no-repeat top left;
+        padding: 12px 12px;
+        background-position: top left;
+        margin-right: 10px;
+        opacity: 1;
     }
     .owl-theme .owl-controls .owl-buttons div.owl-next {
         position: absolute;
-        padding: 10px 10px 5px;
-        border-radius: 17px;
         top: 33%;
         right: 2px;
         font-size: x-large;
-        background-color: #e74c3c;
+        background: transparent url(../images/portfolio-image/arrows.png) no-repeat top left;
+        padding: 12px 12px;
+        background-position: top right;
+        margin-right: 10px;
+        opacity: 1;
+    }
+}
+
+.owl-wrapper-outer {
+    max-height: 480px;
+}
+#do-team-carousel {
+        bottom: -25px;
+    }
+@media only screen and (max-width: 768px) {
+    #do-team-carousel {
+        bottom: -15px;
+    }
+    .owl-wrapper-outer {
+        max-height: 300px;
     }
 }

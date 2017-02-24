@@ -12,35 +12,28 @@
                 <!-- Testimonial Slider -->
                 <div id="do-testimonial-1st" class="owl-carousel do-testimonial">
 
-                    <!-- Slides -->
-                    <div class="do-testimonial-slides">
-                        <p>Like what you see? Buy this theme with the click of a button and let us know what you</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-3.png" alt="">
-                    </div>
-                    <!-- Slides End -->
 
                     <!-- Slides -->
                     <div class="do-testimonial-slides">
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
+                        <span>Barlans Bills | President and General Manager , Seaview Exporters</span>
                         <img src="images/signature-2.png" alt="">
                     </div>
                     <!-- Slides End -->
 
                     <!-- Slides -->
                     <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
+                        <p>We had high expectations for the visual look and functionality of the site and they met and exceeded our expectations</p>
+                        <span>Jansaw Kins | CEO , John Corp Solution</span>
                         <img src="images/signature.png" alt="">
                     </div>
                     <!-- Slides End -->
 
                     <!-- Slides -->
                     <div class="do-testimonial-slides">
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right.</p>
-                        <span>ADRIAN</span>
-                        <img src="images/signature-2.png" alt="">
+                        <p>We just wanted to say that we were very impressed with the customer service, skills and dedication of Mr. Jobith and Mr. Kurian</p>
+                        <span>Shawn David | Manager , SD Designs</span>
+                        <img src="images/signature-3.png" alt="">
                     </div>
                     <!-- Slides End -->
                 </div>
