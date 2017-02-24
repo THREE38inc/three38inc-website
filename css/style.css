@@ -34,12 +34,13 @@
     background-color: transparent;
     /*border-top:3px solid #e3e3e3;*/
 }
-.dg-center{
+
+.dg-center {
     z-index: 1999;
     /*overflow: hidden;*/
 }
 
-.dg-wrapper a .scrollbar{
+.dg-wrapper a .scrollbar {
     height: 300px;
     overflow-y: auto;
 }
@@ -59,7 +60,10 @@
     }
 }
 
+
 /*custom scrollbar for porfolio*/
+
+
 /*.scrollbar
 {
 margin-left: 30px;
@@ -75,47 +79,53 @@ margin-bottom: 25px;
 {
 min-height: 450px;
 }*/
-.scrollbar::-webkit-scrollbar-track
-{
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+
+.scrollbar::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 6px;
     background-color: #F5F5F5;
 }
 
-.scrollbar::-webkit-scrollbar
-{
+.scrollbar::-webkit-scrollbar {
     width: 8px;
     background-color: #F5F5F5;
 }
 
-.scrollbar::-webkit-scrollbar-thumb
-{
+.scrollbar::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
     background-color: #555;
 }
-.dmg-desc{
+
+.dmg-desc {
     color: white;
     text-align: justify;
     font-family: 'Open Sans', sans-serif;
 }
 
-.dg-container{
+.dg-container {
     overflow: hidden;
     height: 570px;
 }
+
 .do-reach-form ::-webkit-input-placeholder {
-   color: #717171;
+    color: #717171;
 }
 
-.do-reach-form #name,#email{
+.do-reach-form #name,
+#email {
     width: calc(100% / 2 - 15px);
 }
-.do-reach-form #contact, textarea{
-    width: calc(100% - 15px);
 
+.do-reach-form #contact,
+textarea {
+    width: calc(100% - 15px);
 }
-.do-reach-form #name,#email,#contact, textarea{
+
+.do-reach-form #name,
+#email,
+#contact,
+textarea {
     font-family: 'Open Sans', sans-serif;
     color: white;
     padding: 0 15px;
@@ -127,49 +137,116 @@ min-height: 450px;
     border-radius: 8px;
     outline: 0;
 }
-.reach-submit{
+
+.reach-submit {
     margin-top: 10px;
 }
-.do-reach-link-alert-success-widget,.do-reach-link-alert-error-widget{
+
+.do-reach-link-alert-success-widget,
+.do-reach-link-alert-error-widget {
     color: white;
     display: none;
 }
-.do-reach-link-alert-success-widget h4,.do-reach-link-alert-error-widget h4{
+
+.do-reach-link-alert-success-widget h4,
+.do-reach-link-alert-error-widget h4 {
     text-align: center;
 }
-.do-reach-link-alert-success-widget span{
+
+.do-reach-link-alert-success-widget span {
     color: green;
     padding-left: 36%;
 }
-.do-reach-link-alert-error-widget span{
+
+.do-reach-link-alert-error-widget span {
     color: red;
     padding-left: 36%;
 }
-.do-reach-link-alert-success-widget span i.ti-thumb-up,.do-reach-link-alert-error-widget span i.ti-thumb-down{
+
+.do-reach-link-alert-success-widget span i.ti-thumb-up,
+.do-reach-link-alert-error-widget span i.ti-thumb-down {
     font-size: -webkit-xxx-large;
 }
 
-.do-section-heading{
+.do-section-heading {
     padding-top: 30px;
     margin-bottom: 50px;
 }
 
-.do-main-menu{
+.do-main-menu {
     z-index: 9999;
 }
-span.fifa{
-  font-family: fifa;
-  font-weight: bold;
-  font-size: 22px;
-  color: #555;
+
+span.fifa {
+    font-family: fifa;
+    font-weight: bold;
+    font-size: 22px;
+    color: #555;
 }
 
-span.fifa em{
-  color: #E74C3C;
-  font-style: normal;
+span.fifa em {
+    color: #E74C3C;
+    font-style: normal;
 }
+
 @media only screen and (max-width: 768px) {
-    .do-footer-top{
+    .do-footer-top {
         text-align: center
+    }
+}
+
+
+/*
+.owl-prev{
+    position: absolute;
+    left: 30px;
+    cursor: pointer;
+    margin: 29% auto;
+    font-size: 30px;
+}
+.owl-next{
+    position: absolute;
+    right: 30px;
+    cursor: pointer;
+    margin: 29% auto;
+    font-size: 30px;
+}*/
+
+.owl-theme .owl-controls .owl-buttons div.owl-prev {
+    position: absolute;
+    top: 50%;
+    left: -5%;
+    font-size: x-large;
+    background-color: #e74c3c;
+    padding: 10px 10px 5px;
+}
+
+.owl-theme .owl-controls .owl-buttons div.owl-next {
+    position: absolute;
+    top: 50%;
+    right: -5%;
+    font-size: x-large;
+    background-color: #e74c3c;
+    padding: 10px 10px 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .owl-theme .owl-controls .owl-buttons div.owl-prev {
+        position: absolute;
+        padding: 10px 10px 5px;
+        border-radius: 17px;
+        top: 33%;
+        left: 2px;
+        font-size: x-large;
+        background-color: #e74c3c;
+    }
+    .owl-theme .owl-controls .owl-buttons div.owl-next {
+        position: absolute;
+        padding: 10px 10px 5px;
+        border-radius: 17px;
+        top: 33%;
+        right: 2px;
+        font-size: x-large;
+        background-color: #e74c3c;
     }
 }

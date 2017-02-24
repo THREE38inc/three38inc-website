@@ -145,12 +145,14 @@ $('#aTagPortfolio').click(function() {
 	autoPlay: true,
 
 	// Navigation
-	navigation : false,
+	navigation : true,
 
 	//Pagination
 	pagination: false
 });
 
+    $("body .owl-prev").html('<i class="icon-arrow-left"></i>');
+    $("body .owl-next").html('<i class="icon-arrow-right"></i>');
 /* ------------------------------------------------------------------
                 PRELOADER                     
 ------------------------------------------------------------------ */
