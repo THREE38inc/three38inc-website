@@ -1520,6 +1520,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/services\/contentWriting.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36541,
+		"inputAbbreviatedPath": "\/images\/services\/contentWriting.png",
+		"outputAbbreviatedPath": "\/images\/services\/contentWriting.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/Graphics.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31272,
+		"inputAbbreviatedPath": "\/images\/services\/Graphics.png",
+		"outputAbbreviatedPath": "\/images\/services\/Graphics.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/mobile.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30978,
+		"inputAbbreviatedPath": "\/images\/services\/mobile.png",
+		"outputAbbreviatedPath": "\/images\/services\/mobile.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/services\/Web_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30658,
+		"inputAbbreviatedPath": "\/images\/services\/Web_icon.png",
+		"outputAbbreviatedPath": "\/images\/services\/Web_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/side-menu-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
