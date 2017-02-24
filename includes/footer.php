@@ -47,13 +47,13 @@
 
                     <!-- About Link Widget -->
                     <div class="do-footer-widget do-about-link-widget col-md-offset-3 col-md-3 col-sm-6 col-xs-12">
-                        <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
+                        <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
-                            <li><a href="index.php#">About History</a></li>
-                            <li><a href="index.php#">Company Philoshophy</a></li>
-                            <li><a href="index.php#">Corporate Profile</a></li>
-                            <li><a href="index.php#">Our Team</a></li>
-                            <li><a href="index.php#">Somewhere in</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="index.php#about-us">About Us</a></li>
+                            <li><a href="index.php#services">services</a></li>
+                            <li><a href="index.php#portfolio">Portfolio</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                     <!-- About Link Widget End -->
