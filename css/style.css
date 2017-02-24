@@ -168,3 +168,8 @@ span.fifa em{
   color: #E74C3C;
   font-style: normal;
 }
+@media only screen and (max-width: 768px) {
+    .do-footer-top{
+        text-align: center
+    }
+}

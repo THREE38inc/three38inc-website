@@ -15,11 +15,11 @@
                             <ul>
                                 <li>
                                     <i class="fa fa-map-marker"></i>
-                                     #323, Defence Avenue, K Narayanpura, Bengaluru - 77
+                                     #323, Defence Avenue ,<br/> K Narayanpura, Bengaluru - 77
                                 </li>
                                 <li>
                                     <i class="fa fa-phone"></i>
-                                     +91-890-433-0374,+91-805-061-1198
+                                     +91-890-433-0374<br/>+91-805-061-1198
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope-o"></i>
@@ -31,7 +31,7 @@
                     <!-- About Widget End -->
 
                     <!-- Link Widget -->
-<!--
+                    <!--
                     <div class="do-footer-widget do-footer-link-widget col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">USEFUL LINKS</h3>
                         <ul>
@@ -46,7 +46,7 @@
                     <!-- Link Widget End -->
 
                     <!-- About Link Widget -->
-                    <div class="do-footer-widget do-about-link-widget col-md-offset-3 col-sm-offset-6 col-md-3 col-sm-6 col-xs-12">
+                    <div class="do-footer-widget do-about-link-widget col-md-offset-3 col-md-3 col-sm-6 col-xs-12">
                         <h3 class="do-footer-widget-header">ABOUT OFFICE</h3>
                         <ul>
                             <li><a href="index.html#">About History</a></li>

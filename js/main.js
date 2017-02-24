@@ -142,13 +142,13 @@ $('#aTagPortfolio').click(function() {
 	itemsMobile : [520,1],
 
 	//Autoplay
-	//autoPlay: true,
+	autoPlay: true,
 
 	// Navigation
-	navigation : true,
+	navigation : false,
 
 	//Pagination
-	pagination: true
+	pagination: false
 });
 
 /* ------------------------------------------------------------------

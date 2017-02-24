@@ -17,7 +17,7 @@
                         <h3>
                             <a href="index.php#">JOBITH M BASHEER</a>
                         </h3>
-                        <p>Co-Founder <br> Full-Stack Developer</p>
+                        <p>Co-Founder <br> <span style="letter-spacing:0px;">Full - Stack Developer</span></p>
 
                         <ul>
                             <li>
@@ -43,9 +43,9 @@
                     <img src="images/team-2.png" alt="Member 2">
                     <div class="do-member-details">
                         <h3>
-                            <a href="index.php#">KURIAN GEORGE CHERIPURATHU</a>
+                            <a href="index.php#">KURIAN GEORGE C</a>
                         </h3>
-                        <p>Co-Founder <br> Full-Stack Designer</p>
+                        <p>Co-Founder <br> <span style="letter-spacing:0px;">Full-Stack Designer</span></p>
 
                         <ul>
                             <li>
