@@ -1529,7 +1529,7 @@
 		"outputAbbreviatedPath": "\/images\/services\/contentWriting.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/services\/Graphics.png": {
 		"fileType": 32768,
@@ -1540,7 +1540,7 @@
 		"outputAbbreviatedPath": "\/images\/services\/Graphics.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/services\/mobile.png": {
 		"fileType": 32768,
@@ -1551,7 +1551,7 @@
 		"outputAbbreviatedPath": "\/images\/services\/mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/services\/Web_icon.png": {
 		"fileType": 32768,
@@ -1562,7 +1562,7 @@
 		"outputAbbreviatedPath": "\/images\/services\/Web_icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/side-menu-logo.png": {
 		"fileType": 32768,

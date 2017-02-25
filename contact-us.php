@@ -1,4 +1,4 @@
-<?php $isMin = true; ?>
+<?php $isMin = false; ?>
 <!DOCTYPE html>
 <html lang="en">
 
