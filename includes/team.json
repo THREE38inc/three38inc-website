@@ -20,7 +20,7 @@
     [
       { "facebook"  :"https://www.facebook.com/akmkurian" },
       { "behance"    :"https://www.behance.net/three38inc" },
-      { "linkedin"  :"https://www.linkedin.com/in/jobithmb" }
+      { "linkedin"  :"https://www.linkedin.com/in/kurian-george-cheripurathu-88387273/" }
     ]
   },
   {
@@ -31,7 +31,7 @@
     "links"       :
     [
       { "facebook"  :"https://www.facebook.com/sonu.abraham.56" },
-      { "github"    :"https://github.com/THREE38inc" },
+      { "github"    :"https://github.com/sonuabrahamk" },
       { "linkedin"  :"https://www.linkedin.com/in/sonu-abraham-k-a09490137" }
     ]
   },
@@ -43,7 +43,7 @@
     "links"       :
     [
       { "facebook"  :"https://www.facebook.com/JijoPuthiyath" },
-      { "github"    :"https://github.com/THREE38inc" },
+      { "github"    :"https://github.com/PUTHIYATH" },
       { "linkedin"  :"https://www.linkedin.com/in/jijo-joseph-b9a840104" }
     ]
   },
@@ -55,7 +55,7 @@
     "links"       :
     [
       { "facebook"  :"https://www.facebook.com/profile.php?id=100009585173406" },
-      { "github"    :"https://github.com/THREE38inc" }
+      { "github"    :"https://github.com/chrisct44" }
     ]
   },
   {
@@ -77,7 +77,8 @@
     "links"       :
     [
       { "facebook"  :"https://www.facebook.com/abijith.benny" },
-      { "linkedin"  :"https://www.linkedin.com/in/abijith-benny-82ba7290" }
+      { "linkedin"  :"https://www.linkedin.com/in/abijith-benny-82ba7290" },
+      { "github"    :"https://github.com/Abijithbenny" }
     ]
   },
   {
@@ -88,6 +89,7 @@
     "links"       :
     [
       { "facebook"    :"https://www.facebook.com/JOELMATHEWAYVELIL" },
+      { "github"      :"https://www.linkedin.com/in/joel-mathew-067980119/" },
       { "google-plus" :"https://plus.google.com/113718643207082650584" }
     ]
   },
@@ -109,7 +111,8 @@
     "img"         :"team_img/amala_team.jpg",
     "links"       :
     [
-      { "facebook"    :"https://www.facebook.com/rose.justy" }
+      { "facebook"    :"https://www.facebook.com/rose.justy" },
+      { "gift"        :"https://www.dropmygift.com/blog" }
     ]
   },
   {
@@ -119,7 +122,8 @@
     "img"         :"team_img/sandhya_team.jpg",
     "links"       :
     [
-      { "facebook"    :"https://www.facebook.com/sandhya.sudhakaran.1" }
+      { "facebook"    :"https://www.facebook.com/sandhya.sudhakaran.1" },
+      { "gift"        :"https://www.dropmygift.com/blog" }
     ]
   }
 ]

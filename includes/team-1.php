@@ -29,7 +29,11 @@
                            <?php for($i=0; $i<count($item['links']); $i++){
                              foreach($item['links'][$i]as $link=>$value) { ?>
                            <a href="<?php echo $value; ?>" target="_blank">
+                              <?php if($link == "gift"): ?>
+                                <i class="fa fa-<?php echo $link; ?>"></i>
+                              <?php else: ?>
                                <i class="fa fa-<?php echo $link; ?>-square"></i>
+                             <?php endif; ?>
                            </a>
                            <?php } }?>
                         </p>

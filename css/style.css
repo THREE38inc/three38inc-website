@@ -515,10 +515,15 @@ figure.effect-milo p {
 figure.effect-milo a{
   color: white;
   font-size: 1.5em;
+  cursor: pointer;
 }
 
 figure.effect-milo:hover p {
 	opacity: 1;
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
+}
+
+.dg-wrapper a img{
+  width: 100%;
 }
