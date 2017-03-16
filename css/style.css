@@ -180,13 +180,27 @@ textarea {
 span.fifa {
     font-family: fifa;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 1.1em;
     color: #555;
+}
+
+span.fifa.sm{
+  font-size: inherit;
 }
 
 span.fifa em {
     color: #E74C3C;
     font-style: normal;
+}
+
+.do-section-heading h1{
+  font-family: fifa;
+  font-size: 3em;
+}
+
+.do-section-heading h1 em{
+  color: #E74C3C;
+  font-style: normal;
 }
 
 @media only screen and (max-width: 768px) {

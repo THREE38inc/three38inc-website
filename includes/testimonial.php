@@ -5,7 +5,7 @@
 
                 <!-- SECTION HEADING -->
                 <div class="do-section-heading do-section-heading-light">
-                    <h1>CLIENT SAYS</h1>
+                    <h1>client <em>says</em></h1>
                 </div>
                 <!-- SECTION HEADING END -->
 

@@ -3,7 +3,7 @@
         <div class="row">
             <!-- SECTION HEADING -->
             <div class="do-section-heading">
-                <h1>our <em>team</em></h1>
+                <h1>our team</h1>
                 <p class="do-section-subheading">AWESOME CREATIVE TEAM</p>
             </div>
             <!-- SECTION HEADING END -->
@@ -39,6 +39,7 @@
                         </ul>
                     </div>
                 </div>
+                
                 <div class="do-team-member">
                     <img src="images/team-2.png" alt="Member 2">
                     <div class="do-member-details">

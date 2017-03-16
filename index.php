@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- PAGE TITLE -->
-    <title>THREE38 inc</title>
+    <title>THREE38 inc | Web Design &amp; Developement Company in Bangalore</title>
 
     <!-- FAVICON AND APPLE TOUCHSCREEN ICONS -->
     <link rel="shortcut icon" href="images/favicon_338_red.png">
@@ -114,9 +114,6 @@
 
     <!--overlay for quotation   -->
 	<div class="md-overlay"></div>
-
-
-
 
 	<!-- *******************************
                 SCRIPTS
