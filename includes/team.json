@@ -13,7 +13,7 @@
   },
   {
     "firstname"   :"Kurian",
-    "lastname"    :"George C",
+    "lastname"    :"George",
     "designation" :"Co-Founder &amp;<br/>Full-Stack Designer",
     "img"         :"team_img/kurian_team.jpg",
     "links"       :
@@ -25,7 +25,7 @@
   },
   {
     "firstname"   :"Sonu",
-    "lastname"    :"Abraham K",
+    "lastname"    :"Abraham",
     "designation" :"Developer",
     "img"         :"team_img/sonu_team.jpg",
     "links"       :
