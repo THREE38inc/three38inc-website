@@ -28,7 +28,7 @@
                            <br /><br />
                            <?php for($i=0; $i<count($item['links']); $i++){
                              foreach($item['links'][$i]as $link=>$value) { ?>
-                           <a href="<?php echo $value[0]; ?>" target="_blank">
+                           <a href="<?php echo $value; ?>" target="_blank">
                                <i class="fa fa-<?php echo $link; ?>-square"></i>
                            </a>
                            <?php } }?>
