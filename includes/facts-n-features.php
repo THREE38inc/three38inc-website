@@ -3,8 +3,8 @@
             <div class="row">
                 <div class="col-md-4 col-sm-4 col-xs-12 do-custom-sec3-col-1">
                     <h3>facts WE HAVE</h3>
-                    <p>Most companies have a particular font or typography that they use to help their customers immediately identify them versus their competitors. We at  THREE38inc help you acheive it and also large hero images often placed in the background with text and other content overlaid on top gives your site a Prodiminent Look from others<br>
-                    <br> 
+                    <p>Most companies have a particular font or typography that they use to help their customers immediately identify them versus their competitors. We at <span class="fifa">THREE38 <em>inc</em></span> help you acheive it and also large hero images often placed in the background with text and other content overlaid on top gives your site a Prodiminent Look from others<br>
+                    <br>
                     Videos that automatically play in the background , elements with depth and shadows around them ,  long menu of options to choose from gives a novel look.</p>
                 </div>
 
@@ -30,7 +30,7 @@
                             <div class="do-skillbar-bar-wrapper">
                                 <div class="do-skillbar-bar"></div>
                             </div>
-                        </div> 
+                        </div>
                         <!-- Design Skill Bar End -->
 
                         <!-- Code Skill Bar -->

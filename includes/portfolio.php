@@ -1,6 +1,6 @@
 <section id="dg-container" class="dg-container">
     <div class="do-section-heading">
-        <h1>Works</h1>
+        <h1>Portfoli<em>o</em></h1>
         <p class="do-section-subheading">creative &amp; expert</p>
     </div>
     <!-- SECTION HEADING END -->
@@ -91,17 +91,16 @@
             </div>
         </a>
     </div>
-    <nav>	
+    <nav>
         <span class="dg-prev">&lt;</span>
         <span class="dg-next">&gt;</span>
-    </nav> 
+    </nav>
 </section>
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
             <a href="index.html#" class="do-btn-round-outline hide">more</a>
         </div>
-    </div>   
-    <div class='row'>&nbsp;</div>  
+    </div>
+    <div class='row'>&nbsp;</div>
 </div>
-

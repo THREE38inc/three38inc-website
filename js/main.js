@@ -3,7 +3,7 @@ jQuery(document).ready(function () {
 
 
     /* ------------------------------------------------------------------
-                    REACH US SEND MAIL                     
+                    REACH US SEND MAIL
     ------------------------------------------------------------------ */
 
     $('.reach-submit').on('click', function (e) {
@@ -95,7 +95,7 @@ jQuery(document).ready(function () {
 
 
     /* ------------------------------------------------------------------
-                    smooth scroll of navbar links                     
+                    smooth scroll of navbar links
     ------------------------------------------------------------------ */
     $('#aTagHome').click(function () {
         $('html, body').animate({
@@ -130,12 +130,12 @@ jQuery(document).ready(function () {
 
 
     /* ------------------------------------------------------------------
-                    Teams wow js                     
+                    Teams wow js
     ------------------------------------------------------------------ */
 
     $("#do-team-carousel").owlCarousel({
         //Items
-        items: 5,
+        items: 3,
         itemsDesktop: [1199, 5],
         itemsDesktopSmall: [979, 3],
         itemsTablet: [768, 2],
@@ -148,13 +148,13 @@ jQuery(document).ready(function () {
         navigation: true,
 
         //Pagination
-        pagination: false
+        pagination: true
     });
 
     $("body .owl-prev").html('');
     $("body .owl-next").html('');
     /* ------------------------------------------------------------------
-                    PRELOADER                     
+                    PRELOADER
     ------------------------------------------------------------------ */
     // makes sure the whole site is loaded
     jQuery(window).load(function () {
@@ -176,7 +176,7 @@ jQuery(document).ready(function () {
 
 
     /* ------------------------------------------------------------------
-                    FOR SCROLL UP BUTTON                     
+                    FOR SCROLL UP BUTTON
     ------------------------------------------------------------------ */
     jQuery.scrollUp({
         scrollName: 'scrollUp', // Element ID
@@ -206,7 +206,7 @@ jQuery(document).ready(function () {
     });
 
     /* ------------------------------------------------------------------
-                    USED FOR CLICK TO HIDE MENU                     
+                    USED FOR CLICK TO HIDE MENU
     ------------------------------------------------------------------ */
     jQuery(".nav a").on("click", function () {
         jQuery("#nav-menu").removeClass("in").addClass("collapse")
@@ -567,7 +567,7 @@ jQuery(document).ready(function () {
         $blogMasonryContainer = $('.do-masonry-blog-wrapper');
 
     $blogContainer.infinitescroll({
-        navSelector: '#do-blog-next-page-nav', // selector for the paged navigation 
+        navSelector: '#do-blog-next-page-nav', // selector for the paged navigation
         nextSelector: '#do-blog-next-page-nav a', // selector for the NEXT link (to page 2)
         itemSelector: '.do-blog-items', // selector for all items you'll retrieve
         animate: true,
@@ -590,7 +590,7 @@ jQuery(document).ready(function () {
     });
 
     $blogMasonryContainer.infinitescroll({
-            navSelector: '#do-blog-next-page-nav', // selector for the paged navigation 
+            navSelector: '#do-blog-next-page-nav', // selector for the paged navigation
             nextSelector: '#do-blog-next-page-nav a', // selector for the NEXT link (to page 2)
             itemSelector: '.do-blog-masonry-items', // selector for all items you'll retrieve
             animate: true,
@@ -634,7 +634,7 @@ jQuery(document).ready(function () {
 
 
     $portfolioContainer.infinitescroll({
-            navSelector: '#do-portfolio-next-page-nav', // selector for the paged navigation 
+            navSelector: '#do-portfolio-next-page-nav', // selector for the paged navigation
             nextSelector: '#do-portfolio-next-page-nav a', // selector for the NEXT link (to page 2)
             itemSelector: '.do-work-item', // selector for all items you'll retrieve
             loading: {
