@@ -134,12 +134,14 @@ textarea {
     margin-top: 10px;
     background-color: transparent;
     border: 2px solid #e9e9e9;
-    border-radius: 8px;
+    border-radius: 5px;
     outline: 0;
 }
 
 .reach-submit {
     margin-top: 10px;
+    border-radius: 5px;
+    width: 95%;
 }
 
 .do-reach-link-alert-success-widget,

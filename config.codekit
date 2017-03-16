@@ -968,7 +968,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/10.jpg": {
 		"fileType": 16384,
@@ -979,7 +979,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/11.jpg": {
 		"fileType": 16384,
@@ -990,7 +990,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/12.jpg": {
 		"fileType": 16384,
@@ -1001,7 +1001,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/13.jpg": {
 		"fileType": 16384,
@@ -1012,7 +1012,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/14.jpg": {
 		"fileType": 16384,
@@ -1023,7 +1023,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/15.jpg": {
 		"fileType": 16384,
@@ -1034,7 +1034,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/16.jpg": {
 		"fileType": 16384,
@@ -1045,7 +1045,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/17.jpg": {
 		"fileType": 16384,
@@ -1056,7 +1056,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/18.jpg": {
 		"fileType": 16384,
@@ -1067,7 +1067,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/19.jpg": {
 		"fileType": 16384,
@@ -1078,7 +1078,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/19.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/2.jpg": {
 		"fileType": 16384,
@@ -1089,7 +1089,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/20.jpg": {
 		"fileType": 16384,
@@ -1100,7 +1100,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/21.jpg": {
 		"fileType": 16384,
@@ -1111,7 +1111,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/21.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/22.jpg": {
 		"fileType": 16384,
@@ -1122,7 +1122,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/22.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/23.jpg": {
 		"fileType": 16384,
@@ -1133,7 +1133,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/23.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/24.jpg": {
 		"fileType": 16384,
@@ -1144,7 +1144,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/24.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/25.jpg": {
 		"fileType": 16384,
@@ -1155,7 +1155,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/25.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/26.jpg": {
 		"fileType": 16384,
@@ -1166,7 +1166,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/26.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/27.jpg": {
 		"fileType": 16384,
@@ -1177,7 +1177,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/27.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/28.jpg": {
 		"fileType": 16384,
@@ -1188,7 +1188,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/28.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/29.jpg": {
 		"fileType": 16384,
@@ -1199,7 +1199,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/29.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/3.jpg": {
 		"fileType": 16384,
@@ -1210,7 +1210,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/30.jpg": {
 		"fileType": 16384,
@@ -1221,7 +1221,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/30.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/31.jpg": {
 		"fileType": 16384,
@@ -1232,7 +1232,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/31.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/32.jpg": {
 		"fileType": 16384,
@@ -1243,7 +1243,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/32.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/33.jpg": {
 		"fileType": 16384,
@@ -1254,7 +1254,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/4.jpg": {
 		"fileType": 16384,
@@ -1265,7 +1265,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/5.jpg": {
 		"fileType": 16384,
@@ -1276,7 +1276,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/6.jpg": {
 		"fileType": 16384,
@@ -1287,7 +1287,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/7.jpg": {
 		"fileType": 16384,
@@ -1298,7 +1298,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/8.jpg": {
 		"fileType": 16384,
@@ -1309,7 +1309,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/img\/9.jpg": {
 		"fileType": 16384,
@@ -1320,7 +1320,7 @@
 		"outputAbbreviatedPath": "\/images\/img\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/left_side_img.jpg": {
 		"fileType": 16384,
@@ -2244,7 +2244,7 @@
 		"outputAbbreviatedPath": "\/images\/team-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team-11.png": {
 		"fileType": 32768,
@@ -2255,7 +2255,7 @@
 		"outputAbbreviatedPath": "\/images\/team-11.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team-2.jpg": {
 		"fileType": 16384,
@@ -2497,7 +2497,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/abijith_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/amala_team.jpg": {
 		"fileType": 16384,
@@ -2508,7 +2508,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/amala_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/chris_team.jpg": {
 		"fileType": 16384,
@@ -2519,7 +2519,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/chris_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/jijo_team.jpg": {
 		"fileType": 16384,
@@ -2530,7 +2530,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/jijo_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/jobith_team.jpg": {
 		"fileType": 16384,
@@ -2541,7 +2541,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/jobith_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/joel_team.jpg": {
 		"fileType": 16384,
@@ -2552,7 +2552,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/joel_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/kurian_team.jpg": {
 		"fileType": 16384,
@@ -2563,7 +2563,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/kurian_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/nidhin_team.jpg": {
 		"fileType": 16384,
@@ -2574,7 +2574,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/nidhin_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/sandhya_team.jpg": {
 		"fileType": 16384,
@@ -2585,7 +2585,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/sandhya_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/sarath_team.jpg": {
 		"fileType": 16384,
@@ -2596,7 +2596,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/sarath_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/sonu_team.jpg": {
 		"fileType": 16384,
@@ -2607,7 +2607,7 @@
 		"outputAbbreviatedPath": "\/images\/team_img\/sonu_team.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/team_img\/test.jpg": {
 		"fileType": 16384,
