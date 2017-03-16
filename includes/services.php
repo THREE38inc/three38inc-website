@@ -46,7 +46,7 @@
                     </div>
 
                     <h3><a href="index.html#">CONTENT WRITTING</a></h3>
-                    <p>We at THREE38 inc, see each project as an opportunity to enhance the possibilities of internet.</p>
+                    <p>We at <span class="fifa">THREE38 <em>inc</em></span>, see each project as an opportunity to enhance the possibilities of internet.</p>
                 </div>
                 <!-- SERVICES END -->
             </div>

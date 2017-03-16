@@ -13,7 +13,7 @@
     <div class="do-custom-video-content-wrapper">
         <div class="container">
             <div class="row">
-                <h3>GET A QUOTE</h3>
+                <h1 style="color:white; font-family:fifa">GET A QUOTE</h1>
                 <p>Don’t wait for the perfect moment. Take the moment and make it perfect.</p>
                 <a class="do-btn-round-outline md-trigger" data-modal="modal-121" href="contact-us.php">REQUEST</a>
             </div>

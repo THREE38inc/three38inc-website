@@ -82,7 +82,11 @@
   },
   {
     "firstname"   :"JOEL",
+<<<<<<< HEAD
     "lastname"    :"MATHEW",
+=======
+    "lastname"    :"MATHEW A",
+>>>>>>> origin/master
     "designation" :"Social Media Marketing",
     "img"         :"team_img/joel_team.jpg",
     "links"       :
