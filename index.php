@@ -97,7 +97,7 @@
     <?php include('includes/portfolio.php'); ?>
 
     <!-- Team section included here-->
-    <?php include('includes/teams.php');?>
+    <?php include('includes/team-1.php');?>
 
     <!--Testimonial section included here-->
     <?php include('includes/testimonial.php');?>

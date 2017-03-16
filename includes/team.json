@@ -1,0 +1,125 @@
+[
+  {
+    "firstname"   :"Jobith",
+    "lastname"    :"M Basheer",
+    "designation" :"Co-Founder &amp;<br/>Full-Stack Developer",
+    "img"         :"team_img/jobith_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/jobithmb" },
+      { "github"    :"https://github.com/jobith93" },
+      { "linkedin"  :"https://www.linkedin.com/in/jobithmb" }
+    ]
+  },
+  {
+    "firstname"   :"Kurian",
+    "lastname"    :"George C",
+    "designation" :"Co-Founder &amp;<br/>Full-Stack Designer",
+    "img"         :"team_img/kurian_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/akmkurian" },
+      { "behance"    :"https://www.behance.net/three38inc" },
+      { "linkedin"  :"https://www.linkedin.com/in/jobithmb" }
+    ]
+  },
+  {
+    "firstname"   :"Sonu",
+    "lastname"    :"Abraham K",
+    "designation" :"Developer",
+    "img"         :"team_img/sonu_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/sonu.abraham.56" },
+      { "github"    :"https://github.com/THREE38inc" },
+      { "linkedin"  :"https://www.linkedin.com/in/sonu-abraham-k-a09490137" }
+    ]
+  },
+  {
+    "firstname"   :"Jijo",
+    "lastname"    :"Joseph",
+    "designation" :"Developer",
+    "img"         :"team_img/jijo_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/JijoPuthiyath" },
+      { "github"    :"https://github.com/THREE38inc" },
+      { "linkedin"  :"https://www.linkedin.com/in/jijo-joseph-b9a840104" }
+    ]
+  },
+  {
+    "firstname"   :"Chris",
+    "lastname"    :"Thomas",
+    "designation" :"Android Developer",
+    "img"         :"team_img/chris_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/profile.php?id=100009585173406" },
+      { "github"    :"https://github.com/THREE38inc" }
+    ]
+  },
+  {
+    "firstname"   :"NIDHIN",
+    "lastname"    :"A MANJALY",
+    "designation" :"Networking &amp;SEO",
+    "img"         :"team_img/nidhin_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/Nidhin.A.Manjaly" },
+      { "linkedin"  :"https://www.linkedin.com/in/nidhin-manjaly-6a2b37a7" }
+    ]
+  },
+  {
+    "firstname"   :"ABIJITH",
+    "lastname"    :"BENNY",
+    "designation" :"Wordpress Developer",
+    "img"         :"team_img/abijith_team.jpg",
+    "links"       :
+    [
+      { "facebook"  :"https://www.facebook.com/abijith.benny" },
+      { "linkedin"  :"https://www.linkedin.com/in/abijith-benny-82ba7290" }
+    ]
+  },
+  {
+    "firstname"   :"JOEL",
+    "lastname"    :"MATHEW A",
+    "designation" :"Social Media Marketing",
+    "img"         :"team_img/joel_team.jpg",
+    "links"       :
+    [
+      { "facebook"    :"https://www.facebook.com/JOELMATHEWAYVELIL" },
+      { "google-plus" :"https://plus.google.com/113718643207082650584" }
+    ]
+  },
+  {
+    "firstname"   :"SARATH",
+    "lastname"    :"MOHAN",
+    "designation" :"Public Relations Officer",
+    "img"         :"team_img/sarath_team.jpg",
+    "links"       :
+    [
+      { "facebook"    :"https://www.facebook.com/sarath.mohan.7946" },
+      { "google-plus" :"https://plus.google.com/105651484692865211244" }
+    ]
+  },
+  {
+    "firstname"   :"AMALA",
+    "lastname"    :"JUSTY",
+    "designation" :"Content Developer",
+    "img"         :"team_img/amala_team.jpg",
+    "links"       :
+    [
+      { "facebook"    :"https://www.facebook.com/rose.justy" }
+    ]
+  },
+  {
+    "firstname"   :"SANDHYA",
+    "lastname"    :"SUDHAKARAN",
+    "designation" :"Content Developer",
+    "img"         :"team_img/sandhya_team.jpg",
+    "links"       :
+    [
+      { "facebook"    :"https://www.facebook.com/sandhya.sudhakaran.1" }
+    ]
+  }
+]
